@@ -1,0 +1,27 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>Liederbuch</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">Liederbuch</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <ion-list *ngIf="songs.length > 0; else noSongs">
+    <ion-item *ngFor="let song of songs">
+      <ion-label>
+        <h2>{{ song.name }}</h2>
+        <p>{{ song.nummer }}</p>
+      </ion-label>
+    </ion-item>
+  </ion-list>
+
+  <ng-template #noSongs>
+    <ion-label>Lade Lieder...</ion-label>
+  </ng-template>
+
+</ion-content>

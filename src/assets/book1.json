@@ -1,0 +1,46 @@
+[
+    {
+        "buch": "Liederbuch 1",
+        "nummer": 1,
+        "name": "Lied 1",
+        "strophentext": 
+        {
+          "1": "Erste Strophe...",
+          "2": "Zweite Strophe..."
+        },
+        "refraintext": "Refrain..."
+      },
+    {
+      "buch": "Liederbuch 1",
+      "nummer": 2,
+      "name": "Lied 2",
+      "strophentext": 
+      {
+        "1": "Erste Strophe...",
+        "2": "Zweite Strophe..."
+      },
+      "refraintext": "Refrain..."
+    },
+    {
+        "buch": "Liederbuch 2",
+        "nummer": 1,
+        "name": "Lied 1",
+        "strophentext": 
+        {
+          "1": "Erste Strophe...",
+          "2": "Zweite Strophe..."
+        },
+        "refraintext": "Refrain..."
+      },
+      {
+        "buch": "Liederbuch 2",
+        "nummer": 2,
+        "name": "Lied 2",
+        "strophentext": 
+        {
+          "1": "Erste Strophe...",
+          "2": "Zweite Strophe..."
+        },
+        "refraintext": "Refrain..."
+      }
+  ]
