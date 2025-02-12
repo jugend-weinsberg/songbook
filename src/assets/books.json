@@ -6,5 +6,9 @@
     {
       "title": "Liederbuch 2",
       "filename": "book2.json"
+    },
+    {
+      "title": "Liederbuch 3",
+      "filename": "book3.json"
     }
   ]

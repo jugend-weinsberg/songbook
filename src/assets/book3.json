@@ -1,8 +1,8 @@
 [
   {
-      "buch": "Liederbuch 2",
+      "buch": "Liederbuch 3",
       "nummer": 1,
-      "name": "Lied 1",
+      "name": "Lied X",
       "strophentext": 
       {
         "1": "Erste Strophe...",
@@ -11,9 +11,9 @@
       "refraintext": "Refrain..."
     },
   {
-    "buch": "Liederbuch 2",
+    "buch": "Liederbuch 3",
     "nummer": 2,
-    "name": "Lied 2",
+    "name": "Lied Y",
     "strophentext": 
     {
       "1": "Erste Strophe...",

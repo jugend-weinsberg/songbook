@@ -14,11 +14,14 @@
   <ion-list *ngIf="songs.length > 0; else noSongs">
     <ion-item *ngFor="let song of songs">
       <ion-label>
-        <h2>{{ song.name }}</h2>
-        <p>{{ song.nummer }}</p>
-      </ion-label>
+        <a [routerLink]="['/song', song.id]">  <h2>{{ song.name }}</h2> </ion-label>
     </ion-item>
   </ion-list>
+  
+    <ng-template #noSongs>
+      <ion-label>Lade Lieder...</ion-label>
+    </ng-template>
+  </ion-content>
 
   <ng-template #noSongs>
     <ion-label>Lade Lieder...</ion-label>
