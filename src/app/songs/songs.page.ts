@@ -1,8 +1,8 @@
-import { Component, OnInit } from '@angular/core'; // Import OnInit
+import { Component, OnInit } from '@angular/core';
 import { IonHeader, IonToolbar, IonTitle, IonContent, IonList, IonItem, IonLabel } from '@ionic/angular/standalone';
 import { HttpClient, HttpClientModule } from '@angular/common/http';
 import { CommonModule } from '@angular/common';
-import { RouterModule, ActivatedRoute, Router } from '@angular/router'; // Import ActivatedRoute und Router
+import { RouterModule, ActivatedRoute, Router } from '@angular/router';
 
 interface Song {
   buch: string;
@@ -17,15 +17,15 @@ interface Song {
   templateUrl: 'songs.page.html',
   styleUrls: ['songs.page.scss'],
   imports: [
-    IonHeader, IonToolbar, IonTitle, IonContent, 
-    CommonModule, IonList, IonItem, IonLabel,
-    HttpClientModule,
-    RouterModule
+    IonHeader, IonToolbar, IonTitle, IonContent,
+    CommonModule, IonList, IonItem, IonLabel, RouterModule,
+    HttpClientModule
   ],
   standalone: true,
   providers: [HttpClient]
 })
-export class SongsPage implements OnInit { // Implement OnInit
+export class SongsPage implements OnInit {
+  book: any; // Hier muss der korrekte Typ für 'book' stehen (z.B. ein Interface)
   bookFilename: string | null = null;
   songs: Song[] = [];
   buecher: string[] = [];
@@ -35,25 +35,24 @@ export class SongsPage implements OnInit { // Implement OnInit
   ngOnInit() {
     this.bookFilename = this.route.snapshot.paramMap.get('bookFilename');
     if (this.bookFilename) {
-      this.loadSongs(this.bookFilename); // Rufe loadSongs mit dem Dateinamen auf
+      this.loadSongs(this.bookFilename);
     } else {
       this.router.navigate(['/home']);
     }
   }
 
-  loadSongs(bookFilename: string) { // Parameter hinzufügen und Typ definieren
-    const url = `assets/${bookFilename}`; // Korrekte URL-Zusammensetzung
-    console.log("Lade URL:", url); // Debugging
-    this.http.get<Song[]>(url).subscribe({ // Korrekte Syntax für subscribe
+  loadSongs(bookFilename: string) {
+    const url = `assets/${bookFilename}`;
+
+    this.http.get<Song[]>(url).subscribe({
       next: (data) => {
         this.songs = data;
         this.buecher = this.getUniqueBuecher(data);
-        console.log('Songs:', this.songs); // Log die geladenen Songs
-        console.log('Bücher:', this.buecher);
+        console.log("Songs:", this.songs); // Überprüfe die geladenen Songs
       },
       error: (error) => {
         console.error('Fehler beim Laden der Songs:', error);
-        this.router.navigate(['/home']); // Bei Fehler zurück zur Home-Seite
+        this.router.navigate(['/home']);
       }
     });
   }
