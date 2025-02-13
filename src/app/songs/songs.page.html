@@ -5,15 +5,10 @@
 </ion-header>
 
 <ion-content [fullscreen]="true">
-  <ion-header collapse="condense">
-    <ion-toolbar>
-      <ion-title size="large">Liederbuch</ion-title>
-    </ion-toolbar>
-  </ion-header>
+
+  <button (click)="goBack()">Zurück</button>
 
   <ion-list *ngIf="songs.length > 0; else noSongs">
-    <button (click)="goBack()">Zurück</button>
-
     <ion-item *ngFor="let song of songs">
       <ion-label>
         <a [routerLink]="['/book', bookFilename, 'song', song.nummer]">  <h2>{{ song.name }}</h2>

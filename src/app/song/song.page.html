@@ -5,10 +5,10 @@
 </ion-header>
 
 <ion-content *ngIf="song">
-  <ion-label>
-
-    <button (click)="goBack()">Zurück</button>
   
+  <button (click)="goBack()">Zurück</button>
+
+  <ion-label>  
     <h2>{{ song.name }}</h2>
 
     <div *ngIf="song?.strophen && song?.refrains">
