@@ -3,6 +3,7 @@ import { IonHeader, IonToolbar, IonTitle, IonContent, IonList, IonItem, IonLabel
 import { HttpClient, HttpClientModule } from '@angular/common/http';
 import { CommonModule } from '@angular/common';
 import { RouterModule, ActivatedRoute, Router } from '@angular/router';
+import { Location } from '@angular/common';
 
 interface Song {
   buch: string;
@@ -30,7 +31,7 @@ export class SongsPage implements OnInit {
   songs: Song[] = [];
   buecher: string[] = [];
 
-  constructor(private route: ActivatedRoute, private http: HttpClient, private router: Router) { }
+  constructor(private route: ActivatedRoute, private http: HttpClient, private router: Router, private location: Location) { }
 
   ngOnInit() {
     this.bookFilename = this.route.snapshot.paramMap.get('bookFilename');
@@ -63,5 +64,9 @@ export class SongsPage implements OnInit {
       uniqueBuecher.add(song.buch);
     }
     return Array.from(uniqueBuecher);
+  }
+  
+  goBack() {
+    this.location.back();
   }
 }

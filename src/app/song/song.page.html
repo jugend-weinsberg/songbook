@@ -6,6 +6,9 @@
 
 <ion-content *ngIf="song">
   <ion-label>
+
+    <button (click)="goBack()">Zurück</button>
+  
     <h2>{{ song.name }}</h2>
 
     <div *ngIf="song?.strophen && song?.refrains">

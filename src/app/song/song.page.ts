@@ -3,6 +3,7 @@ import { ActivatedRoute, Router } from '@angular/router';
 import { HttpClient, HttpClientModule } from '@angular/common/http'; // Import HttpClient und HttpClientModule
 import { IonicModule } from '@ionic/angular';
 import { CommonModule } from '@angular/common';
+import { Location } from '@angular/common';
 
 interface Song {
   buch: string;
@@ -14,6 +15,7 @@ interface Song {
 
 @Component({
   selector: 'app-song',
+  template: '<button (click)="goBack()">Zurück</button>',
   templateUrl: './song.page.html',
   styleUrls: ['./song.page.scss'],
   standalone: true,
@@ -26,7 +28,7 @@ export class SongPage implements OnInit {
   strophenKeys: string[] = []; // Deklaration *und* Initialisierung hier!
 
 
-  constructor(private route: ActivatedRoute, private http: HttpClient, private router: Router) { }
+  constructor(private route: ActivatedRoute, private http: HttpClient, private router: Router, private location: Location) { }
 
   ngOnInit() {
     setTimeout(() => {
@@ -67,6 +69,10 @@ export class SongPage implements OnInit {
         this.router.navigate(['/home']);
       }
     });
+  }
+
+  goBack() {
+    this.location.back();
   }
   
 }
