@@ -1,13 +1,11 @@
 <ion-header [translucent]="true">
   <ion-toolbar>
+    <button (click)="goBack()">Zurück</button>
     <ion-title>Liederbuch</ion-title>
   </ion-toolbar>
 </ion-header>
 
 <ion-content [fullscreen]="true">
-
-  <button (click)="goBack()">Zurück</button>
-
   <ion-list *ngIf="songs.length > 0; else noSongs">
     <ion-item *ngFor="let song of songs">
       <ion-label>
