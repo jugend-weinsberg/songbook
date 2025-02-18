@@ -1,0 +1,23 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <button (click)="goBack()">Zurück</button>
+    <ion-title>Liederbuch</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-list *ngIf="songs.length > 0; else noSongs">
+    <ion-item *ngFor="let song of songs">
+      <ion-label>
+        <a [routerLink]="['/book', bookFilename, 'song', song.nummer]">  <h2>{{ song.name }}</h2>
+          <p>{{ song.nummer }}</p>
+        </a>
+      </ion-label>
+    </ion-item>
+  </ion-list>
+
+  <ng-template #noSongs>
+    <ion-label>Lade Lieder...</ion-label>
+  </ng-template>
+
+</ion-content>
