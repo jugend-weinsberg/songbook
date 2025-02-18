@@ -1,0 +1,23 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <div style="display: flex; align-items: center;">  <button (click)="goBack()">Zurück</button></div>
+      <ion-title>Liederbuch</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content *ngIf="song">
+  <ion-label>  
+    <h2>{{ song.name }}</h2>
+    <br>
+
+    <div *ngIf="song?.strophen && song?.refrains">
+      <div *ngFor="let item of song.strophen">
+        <p style="white-space: pre-wrap;">{{ item.text }}</p>
+        <br>
+        <p style="white-space: pre-wrap;" *ngIf="item.refrain ">{{ song.refrains[item.refrain] }}<br></p>
+        
+      </div>
+    </div>
+
+  </ion-label>
+</ion-content>

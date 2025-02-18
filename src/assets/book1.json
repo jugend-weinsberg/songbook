@@ -1,0 +1,261 @@
+[
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 1,
+    "name": "Anbetung bringen wir dir, Jesus, Gotteslamm",
+    "refrains": {
+      "ref1": "",
+      "ref2": ""
+    },
+    "strophen": [
+      { 
+          "text": "1) Anbetung bringen wir Dir, Jesus, Gotteslamm.\nWir stehen staunend hier, sehen, was Du getan.\nNichts ist für Dich zu schwer, nichts Dich bezwingen kann!\nDu bist der einz’ge Herr, Jesus, wir beten an.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "2) Christus, auf Golgatha hast Du den Feind besiegt.\nDeine erlöste Schar anbetend vor Dir liegt.\nAus dunkler Leidensnacht stiegst Du zum Licht empor,\ndann brach mit aller Macht, Jesus, Dein Sieg hervor!", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Herr, Deine Botschaft heut neu unser Herz beglückt: \n\"Jesus, der Herr der Herrn, bald Seine Braut entrückt!“\nFroh warten wir auf Dich und machen uns bereit,\nbald werden wir Dich sehn, Jesus, in Herrlichkeit", 
+          "refrain": "ref2" 
+      }
+      
+    ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 2,
+      "name": "Glücklichsein heißt",
+      "refrains": {
+        "ref1": "Refrain 1 Text...",
+        "ref2": "Refrain 2 Text..."
+      },
+      "strophen": [
+        { 
+            "text": "Erste Strophe...", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "Zweite Strophe...", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "Dritte Strophe...", 
+            "refrain": "ref2" 
+        }
+      ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 3,
+      "name": "Ich hab einen herrlichen König",
+      "refrains": {
+        "ref1": "Jesus, mein Stolz, meine tiefe Ruh,\nJesus, dir jauchze ich selig zu!\nIch hab einen herrlichen König,\no Jesus, Jesus, nur du!",
+        "ref2": " "
+      },
+      "strophen": [
+        { 
+            "text": "1) Ich hab einen herrlichen König,\nden einzig erkenne ich an;\nich will keinen andern auf Erden,\nund stünd ich allein auf dem Plan.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "2) Ich stell' zur Verfügung mich gerne\ndem König, der königlich liebt,\nund tue mit Wonne den Willen\ndes Königs, der königlich gibt.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "3) Ich traue den Worten des Königs\nund richte mich immer danach\nund folg seiner siegenden Fahne\nund geht's auch durch Schmerzen und Schmach.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "4) Ich will, dass mein Alles im Leben\ndem König sei untertan\nund sehe mit sehnender Seele\nsein ewiges Königreich nahn.", 
+            "refrain": "ref1" 
+        }
+      ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 4,
+      "name": "Er kann alles, er kann alles",
+      "refrains": {
+        "ref1": "Refrain 1 Text...",
+        "ref2": "Refrain 2 Text..."
+      },
+      "strophen": [
+        { 
+            "text": "Erste Strophe...", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "Zweite Strophe...", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "Dritte Strophe...", 
+            "refrain": "ref2" 
+        }
+      ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 5,
+      "name": "Du großer Gott, wenn ich die Welt betrachte",
+      "refrains": {
+        "ref1": "dann jauchzt mein Herz Dir, großer Herrscher, zu:\nWie groß bist Du! Wie groß bist Du!\nDann jauchzt mein Herz Dir, großer Herrscher, zu:\nWie groß bist Du! Wie groß bist Du!",
+        "ref2": " "
+      },
+      "strophen": [
+        { 
+            "text": "1) Du großer Gott, wenn ich die Welt betrachte,\ndie Du geschaffen durch Dein Allmachtswort,\nwenn ich auf alle jene Wesen achte,\ndie Du regierst und nährest fort und fort,", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "2) Blick ich empor zu jenen lichten Welten\nund seh der Sterne unzählbare Schar,\nwie Sonn und Mond im lichten Äther zelten,\ngleich goldnen Schiffen hehr und wunderbar,", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "3) Wenn mir der Herr in Seinem Wort begegnet,\nwenn ich die großen Gnadentaten seh,\nwie Er das Volk des Eigentums gesegnet,\nwie Er's geliebt, begnadigt je und je,", 
+            "refrain": "ref2" 
+        },
+        { 
+            "text": "4) Und seh ich Jesus auf der Erde wandeln\nin Knechtsgestalt, voll Lieb und großer Huld,\nwenn ich im Geiste seh Sein göttlich Handeln,\nam Kreuz bezahlen vieler Sünder Schuld,", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "5) Wenn schwerer Bürden Last mich niederbeuget,\nwenn meine Seel betrübt ist bis zum Tod\nund er in Lieb' und Huld sich zu mir neiget,\nmich tröstet und errettet aus der Not,", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "6) Und wenn der Herr von hinnen mich gerufen,\nwenn ich von seinem Glanz geblendet steh',\nanbetend niederfall' zu seinen Stufen,\nden König dort in seiner Schöne seh,", 
+            "refrain": "ref1" 
+        }
+
+      ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 6,
+      "name": "Wenn ich die Werke Deiner Hände sehe",
+      "refrains": {
+        "ref1": "Refrain 1 Text...",
+        "ref2": "Refrain 2 Text..."
+      },
+      "strophen": [
+        { 
+            "text": "Erste Strophe...", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "Zweite Strophe...", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "Dritte Strophe...", 
+            "refrain": "ref2" 
+        }
+      ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 7,
+      "name": "Wie wunderbar regierst du mein Leben",
+      "refrains": {
+        "ref1": "Refrain 1 Text...",
+        "ref2": "Refrain 2 Text..."
+      },
+      "strophen": [
+        { 
+            "text": "Erste Strophe...", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "Zweite Strophe...", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "Dritte Strophe...", 
+            "refrain": "ref2" 
+        }
+      ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 8,
+      "name": "Wie ein Strom von oben",
+      "refrains": {
+        "ref1": " ",
+        "ref2": " "
+      },
+      "strophen": [
+        { 
+            "text": "1) Wie ein Strom von oben aus der Herrlichkeit\nfließt der Friede Gottes durch das Land der Zeit.\nTiefer, reicher, klarer strömt er Tag und Nacht\nmit unwiderstehlich wunderbarer Macht.\nFriede meines Gottes, stille, tiefe Ruh',\nalle meine Sorgen, alles deckst Du zu.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "2) Strömt der Friede Gottes über mich dahin,\nmüssen alle finstern Mächte von mir fliehn.\nSeine Fluten tragen Hast und Sorgen fort,\nFriede meines Gottes, sel'ger Ruheort!\nFriede meines Gottes, stille, tiefe Ruh',\nalle meine Sorgen, alles deckst Du zu.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "3) Wechselt auch hienieden Licht mit Schatten ab,\nstrahlt doch meine Sonne warm auf mich herab.\nWunderbar getragen von der Friedensflut\nsing ich froh dem Ew'gen: Herr, wie hab ich's gut!\nIn Dir ist verborgen stille, tiefe Ruh',\nalle meine Sorgen, alles deckst Du zu.", 
+            "refrain": "ref2" 
+        }
+      ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 9,
+      "name": "Lobe den Herrn, meine Seele, und seinen heiligen Namen",
+      "refrains": {
+        "ref1": " ",
+        "ref2": " "
+      },
+      "strophen": [
+        { 
+            "text": " ", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": " ", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": " ", 
+            "refrain": "ref2" 
+        }
+      ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 10,
+      "name": "Jesus, höchster Name",
+      "refrains": {
+        "ref1": " ",
+        "ref2": " "
+      },
+      "strophen": [
+        { 
+            "text": "Jesus höchster Name,\nteurer Erlöser, siegreicher Herr.\nImmanuel, Gott ist mit uns,\nherrlicher Heiland, lebendiges Wort.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": " ", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": " ", 
+            "refrain": "ref2" 
+        }
+      ]
+  }
+
+]
+
