@@ -4,8 +4,8 @@
     "nummer": 1,
     "name": "Anbetung bringen wir dir, Jesus, Gotteslamm",
     "refrains": {
-      "ref1": "",
-      "ref2": ""
+      "ref1": " ",
+      "ref2": " "
     },
     "strophen": [
       { 
@@ -53,7 +53,7 @@
       "nummer": 3,
       "name": "Ich hab einen herrlichen König",
       "refrains": {
-        "ref1": "Jesus, mein Stolz, meine tiefe Ruh,\nJesus, dir jauchze ich selig zu!\nIch hab einen herrlichen König,\no Jesus, Jesus, nur du!",
+        "ref1": "Ref.: Jesus, mein Stolz, meine tiefe Ruh,\nJesus, dir jauchze ich selig zu!\nIch hab einen herrlichen König,\no Jesus, Jesus, nur du!",
         "ref2": " "
       },
       "strophen": [
@@ -105,7 +105,7 @@
       "nummer": 5,
       "name": "Du großer Gott, wenn ich die Welt betrachte",
       "refrains": {
-        "ref1": "dann jauchzt mein Herz Dir, großer Herrscher, zu:\nWie groß bist Du! Wie groß bist Du!\nDann jauchzt mein Herz Dir, großer Herrscher, zu:\nWie groß bist Du! Wie groß bist Du!",
+        "ref1": "Ref.: dann jauchzt mein Herz Dir, großer Herrscher, zu:\nWie groß bist Du! Wie groß bist Du!\nDann jauchzt mein Herz Dir, großer Herrscher, zu:\nWie groß bist Du! Wie groß bist Du!",
         "ref2": " "
       },
       "strophen": [
@@ -119,7 +119,7 @@
         },
         { 
             "text": "3) Wenn mir der Herr in Seinem Wort begegnet,\nwenn ich die großen Gnadentaten seh,\nwie Er das Volk des Eigentums gesegnet,\nwie Er's geliebt, begnadigt je und je,", 
-            "refrain": "ref2" 
+            "refrain": "ref1" 
         },
         { 
             "text": "4) Und seh ich Jesus auf der Erde wandeln\nin Knechtsgestalt, voll Lieb und großer Huld,\nwenn ich im Geiste seh Sein göttlich Handeln,\nam Kreuz bezahlen vieler Sünder Schuld,", 
@@ -255,7 +255,4243 @@
             "refrain": "ref2" 
         }
       ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 11,
+      "name": "Sag, kennst du wohl den wunderbaren Namen",
+      "refrains": {
+        "ref1": "Ref.: Name über alle Namen Jesus,\nkein schöneren auf Erden gibt’s.\nIn keinem andren Namen ist Erlösung,\nnur in diesem Nam’ ist Heil.",
+        "ref2": " "
+      },
+      "strophen": [
+        { 
+            "text": "1) Sag, kennst du wohl den wunderbaren Namen,\nuns zum Heil von Gott gesandt?\nSein Lob erklingt hinaus in alle Welten,\nüber Meer und jedes Land.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "2) Der Name wie ein Morgenstern erstrahlet,\nüber Not und Nacht der Welt.\nEs schenket Mut und neue Hoffnungsflamme,\ndie dann unsern Weg erhellt.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "3) Den Müden und Versagenden hienieden,\nrings von Untergang bedroht.\nBringt er den lang ersehnten Himmelsfrieden\nund erlöst von Sünd und Tod.", 
+            "refrain": "ref2" 
+        },
+        { 
+            "text": "4) Wenn alle andren Namen einst verbleichen,\nJesu Name ewig bleibt.\nSein Purpurglanz so wunderbar wird strahlen\nbis in alle Ewigkeit.", 
+            "refrain": "ref2" 
+        }
+      ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 12,
+      "name": "Ein wunderbarer Name hier auf Erden",
+      "refrains": {
+        "ref1": " ",
+        "ref2": " "
+      },
+      "strophen": [
+        { 
+            "text": " ", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": " ", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": " ", 
+            "refrain": "ref2" 
+        }
+      ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 13,
+      "name": "Kommt, singt mit uns ein neues Lied",
+      "refrains": {
+        "ref1": " ",
+        "ref2": " "
+      },
+      "strophen": [
+        { 
+            "text": " ", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": " ", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": " ", 
+            "refrain": "ref2" 
+        }
+      ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 14,
+      "name": "Du bist würdig, du bist würdig",
+      "refrains": {
+        "ref1": "Ref.: Du bist würdig, Du bist würdig,\nDu bist würdig, o Gott.\ndu bist würdig von uns zu nehmen,\nPreis und Ehre und Dank.",
+        "ref2": " "
+      },
+      "strophen": [
+        { 
+            "text": "1) Denn Du schufst das All\nund durch Dich kam das Leben,\nin Dir ist die Fülle die Kraft.\nDu bist würdig, von uns zu nehmen,\nPreis und Ehre und Dank.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "2) Denn du bis das Lamm,\ndas für uns ward geschlachtet,\ndu hast uns den Vater erkauft.\n​Du bist würdig, von uns zu nehmen,\nPreis und Ehre und Dank.", 
+            "refrain": "ref1" 
+        }
+      ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 15,
+      "name": "Wer hat die Welt gemacht",
+      "refrains": {
+        "ref1": " ",
+        "ref2": " "
+      },
+      "strophen": [
+        { 
+            "text": " ", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": " ", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": " ", 
+            "refrain": "ref2" 
+        }
+      ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 16,
+      "name": "Schau ich am Abend in die Ferne",
+      "refrains": {
+        "ref1": "Ref.: O großer Gott, ich bin so klein, wenn ich die Werke Deiner Hände seh.\nIch danke Dir, dass ich als Stein in Deinem großen Bau darf heute stehn.",
+        "ref2": " "
+      },
+      "strophen": [
+        { 
+            "text": "1) Schau ich am Abend in die Ferne und auf die schlafende Natur,\nseh ich das Leuchten vieler Sterne und der Meteoriten Spur.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "2) Ich sah am Strand die blauen Wellen, wie sie dort spielten auf dem Strand.\nIch fand im Wald so manche Quelle und trank ihr Wasser aus der Hand.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "3) Ich seh im Geiste Jesus sterben am Kreuzesstamm für meine Schuld,\nseh Ihn im Leiden Heil erwerben für mich aus lauter Lieb und Huld.", 
+            "refrain": "ref1" 
+        }
+      ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 17,
+      "name": "Denkst du daran",
+      "refrains": {
+        "ref1": "Ref.: Denkst du daran, und dankst du täglich Gott dafür?\nDankst du für Seine große Güt' und Treu?\nDankst du für die Fülle Seiner Liebe?\nUnd für die Gnade, die Er täglich schenkt aufs Neu?",
+        "ref2": " "
+      },
+      "strophen": [
+        { 
+            "text": "1) Denkst du daran, wie dich dein Gott geleitet,\nwie manches stille Glück Er dir bereitet,\nwie manchen Unfall Er mit starken Händen\nvon deinem Haupte wusste abzuwenden?", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "2) Denkst du daran, wie Gott, dir Liebe und Leben,\nVernunft und alle Sinne dir gegeben,\nDir, was Er gab, durch Sein allmächtig Walten\nbis diese Stunde freundlich hat erhalten?", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "3) Denkst du daran, wie Gott dich nie versäumte,\nwie manchen Stein Er aus dem Wege räumte,\ndass nicht im dunklen Tale, fern vom Ziele,\ndein Glaube wankte, deine Hoffnung fiele?", 
+            "refrain": "ref1" 
+        }
+      ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 18,
+      "name": "Du hast mein Leben so reich gemacht",
+      "refrains": {
+        "ref1": " ",
+        "ref2": " "
+      },
+      "strophen": [
+        { 
+            "text": "1) Du hast mein Leben so reich gemacht,\ndem heißen Sehnen Erfüllung gebracht.\nAll meine Sünden decktest Du zu,\nan Deinem Herzen fand ich die Ruh,\nan Deinem Herzen fand ich die Ruh.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "2) Du gabst mir Frieden so tief und reich\nund eine Freude dem Strome gleich.\nBist drum mein Psalm und mein Jubelgesang,\nder schönste Ton und der liebste Klang,\nder schönste Ton und der liebste Klang.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "3) Du ist im Kampfe mir Burg und Hort,\nim wilden Sturme der Ruheort.\nDu bist mein Retter in jeder Not.\nDu bist mein Leben, kommt einst der Tod,\nDu bist mein Leben, kommt einst der Tod.", 
+            "refrain": "ref2" 
+        },
+        { 
+          "text": "4) Du bist mein Führer, an Deiner Hand\ngeh ich so sicher durchs Erdenland.\nDu bist mein Alles, bist Leben und Licht.\nHerr Jesus Christus, ich lass Dich nicht,\nHerr Jesus Christus, ich lass Dich nicht.", 
+          "refrain": "ref2" 
+        }
+      ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 19,
+      "name": "Du bist mein Ziel, mein Gott",
+      "refrains": {
+        "ref1": " ",
+        "ref2": " "
+      },
+      "strophen": [
+        { 
+            "text": " ", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": " ", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": " ", 
+            "refrain": "ref2" 
+        }
+      ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 20,
+      "name": "Danke, Herr Jesus, hab Dank (Allen Kummer, alle Sorgen)",
+      "refrains": {
+        "ref1": "Ref.: Danke, Herr Jesus, hab Dank, Herr, dass ich mit dir reden darf.\nDanke, Herr Jesus, hab Dank, dass du mich hörst!",
+        "ref2": " "
+      },
+      "strophen": [
+        { 
+            "text": "1) Allen Kummer, alle Sorgen, sag ich dir, mein Herr und Gott.\nAlle Ängste, alle Zweifel, alle meine Not.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "2) Alles Frohe, alles Gute, bring ich dir, Herr, im Gebet,\nweil ich weiß, dass hinter allem deine Treue steht.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "3) Nichts brauch ich dir zu verschweigen, der mich wie kein andrer kennt.\nMit dir darf ich alles reden, was mein Herz bedrängt.", 
+            "refrain": "ref1" 
+        }
+      ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 21,
+      "name": "Herr, ich will Dir allzeit danken",
+      "refrains": {
+        "ref1": "Ref.: Heute will ich Jesus preisen, weil Er täglich mit mir geht!\nDanke, Du bist mein! Danke, Du bist mein,\ndenn es singt in meinem Herzen: Danke, Du bist mein!",
+        "ref2": " "
+      },
+      "strophen": [
+        { 
+            "text": "1) Herr, ich will Dir allzeit danken, denn Du bist nun mein.\nDu gabst mir ein neues Leben und ich bin jetzt Dein.\nWeil es singt in meinem Herzen, hab ich Ruhe, die besteht.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "2) Herr, ich will Dir allzeit danken, Du beschenkst mich so,\ndenn Dein Führen und Dein Sorgen macht mich frei und froh.\nWeil es singt in meinem Herzen, hab ich Liebe, die besteht.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "3) Herr, ich will Dir allzeit danken, denn Du bist nicht fern.\nWeil ich mir Dir auferstanden, leb ich in dem Herrn.\nWeil es singt in meinem Herzen, hab ich Freude, die besteht.", 
+            "refrain": "ref1" 
+        }
+      ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 22,
+      "name": "ich traue ganz meinem Herrn",
+      "refrains": {
+        "ref1": " ",
+        "ref2": " "
+      },
+      "strophen": [
+        { 
+            "text": " ", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": " ", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": " ", 
+            "refrain": "ref2" 
+        }
+      ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 23,
+      "name": "Voller Sonne ist mein ganzes Herz",
+      "refrains": {
+        "ref1": "Ref.: Danke Jesus, Du mein Heiland, für den Sonnenschein den Du mir gibst,\ndass ich Dich an jedem Tag erleben darf. Danke, Herr, dass Du mich liebst.",
+        "ref2": " "
+      },
+      "strophen": [
+        { 
+            "text": "1) Voller Sonne ist mein ganzes Herz, die die Dunkelheit durchbricht.\nIhre Strahlen werden vergehn, denn Jesus ist mein Licht.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "2) Voller Singen ist mein ganzes Herz, ja, sogar in dunkler Nacht.\nJesus schenkte mir ein neues Lied, das sei Ihm dargebracht.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "3) Voller Freude ist mein ganzes Herz; ich lob Ihn mein Leben lang\nfür die Fülle, die der Herr mir schenkt. Nur Ihm gilt mein Gesang.", 
+            "refrain": "ref1" 
+        }
+      ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 24,
+      "name": "An jedem Morgen",
+      "refrains": {
+        "ref1": " ",
+        "ref2": " "
+      },
+      "strophen": [
+        { 
+            "text": "1) An jedem Morgen soll mein Lob zu Gott erklingen;\nDer meine Hoffnung ist, Dem will ich Lieder singen.\nAn jedem Morgen will ich Ihn von Herzen preisen,\nIhn darum bitten, mir am Tag den Weg zu weisen.\nIn Seiner Liebe will Er mich erhören\nund alles Böse wird Er von mir nehmen.\nMit Seinem starken Arm wird Er mich leiten\nund meinen Fuß bewahren vor dem Gleiten.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "2) Der Hüter Israels, Er schläft und schlummert nimmer,\nEr bleibt derselbe gestern, heute und für immer.\nDes Abends lege ich mich schlafen ohne Sorgen,\nmit Ihm erwache ich an jedem neuen Morgen.\nEr plant mein Tagewerk nach Seinem Willen,\nwill mir Gedanken und das Herz erfüllen.\nDer mich erlöst und mir das Heil gegeben,\nist selbst der Weg, die Wahrheit und das Leben.", 
+            "refrain": "ref1" 
+        }
+      ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 25,
+      "name": "Draußen scheint die Sonne",
+      "refrains": {
+        "ref1": "Ref.: Gottes Liebe hat bedacht,\nwas uns Menschen Freude macht.\nIhm gebühret Lob und Dank lebenslang.",
+        "ref2": " "
+      },
+      "strophen": [
+        { 
+            "text": "1) Draußen scheint die Sonne und die Blumen blühn.\nLasst uns wandern durch die schöne Welt.\nWald und Fluren grüßen uns im schmucken Grün,\nweiße Wolken ziehn am Himmelszelt.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "2) Aus der Ferne tönet leiser Glockenklang\nund von Baum und Strauch der Vögel Lied.\nO wie lieblich ist ein solcher Sommertag,\nSchönheit nur, soweit das Auge sieht.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "3) Und die Laute klinget, Schritt und Tritt erschallt,\njunge Kehlen stimmen singend ein.\nUnser Weg, er führt durch dunklen Tannenwald,\nweiches Moos zum Rasten ladet ein.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "4) Doch ein Ziel hat jeder rechte Wandersmann,\nwie das Bächlein strebt zum fernen Meer.\nKommt er dann am Ende seines Weges an,\nvergessen ist dann Mühsal und Beschwerd.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "5) Unsre Lebensreise führt zum Himmelreich,\nweil wir an der Seite Jesu gehn.\nEr ist unser König, keiner ist Ihm gleich.\nSeine Herrlichkeit wird einmal sehn!", 
+            "refrain": "ref1" 
+        }
+      ]
+    },
+
+    {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 26,
+      "name": "Für den goldnen Sonnenschein (Vater, wir danken dir)",
+      "refrains": {
+        "ref1": "Ref.: Vater wir danken dir,\nVater, wir danken dir,\nVater im Himmel, wir danken dir.",
+        "ref2": " "
+      },
+      "strophen": [
+        { 
+            "text": "1) Für den goldnen Sonnenschein,\nfür die Luft, so klar und rein,\nfür den Regen auf der Au,\nfür den milden Morgentau\ndanken wir dem Herrn,\ndanken wir dem Herrn.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "2) Für das Wasser und das Brot,\nfür die Freunde in der Not,\nfür die Arbeit und das Spiel,\nfür des Lebens Zweck und Ziel\ndanken wir dem Herrn,\ndanken wir dem Herrn.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "3) Für die Ruhe in der Nacht,\nfür die goldne Sternenpracht,\nfür das teure Gotteswort,\nfür die bessre Heimat dort\ndanken wir dem Herrn,\ndanken wir dem Herrn.", 
+            "refrain": "ref2" 
+        },
+        { 
+            "text": "4) Für die lieben Eltern mein,\ndie sich meinem Glücke weihn,\nfür den Heiland Jesus Christ,\nder vom Himmel kommen ist\ndanken wir dem Herrn,\ndanken wir dem Herrn.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "5) Für den lieben Ruhetag,\nden so gern ich feiern mag,\nwo wir gehn zum Haus des Herrn\nimmer wieder, ach, so gern,\ndanken wir dem Herrn,\ndanken wir dem Herrn.", 
+            "refrain": "ref1" 
+        }
+      ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 27,
+      "name": "Sein Name heißt wunderbar",
+      "refrains": {
+        "ref1": " ",
+        "ref2": " "
+      },
+      "strophen": [
+        { 
+            "text": " ", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": " ", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": " ", 
+            "refrain": "ref2" 
+        }
+      ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 28,
+      "name": "Wir sind des Heilands Himmelsblumen",
+      "refrains": {
+        "ref1": " ",
+        "ref2": " "
+      },
+      "strophen": [
+        { 
+            "text": "1) Wir sind des Heilands Himmelsblumen,\ndie er von ganzem Herzen liebt,\nund denen er, was sie bedürfen,\nfür alle Tage freundlich gibt.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "2) Er schützt vor Kälte uns und Regen\nund wenn der Böse uns erschreckt,\nso ist er da um uns zu helfen\nund seine Heilandshand uns deckt.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "3) Die Blümlein dürfen nicht verkümmern,\ner gießt sie selbst mit eigner Hand,\ngibt ihnen Kraft zum frohen Wachsen\nund auch den rechten Sonnenstand.", 
+            "refrain": "ref2" 
+        },
+        { 
+            "text": "4) Und kommt der Abend sind wir müde,\ndann ruhn die Blümlein gerne aus.\nUnd an dem letzten Abend kommt er\nund holt uns selber still nach Haus.", 
+            "refrain": "ref2" 
+        },
+        { 
+            "text": "5) Dann pflanzt die Hand des Himmelsgärtners\ndie Blümlein ewig droben ein.\nWir sind des Heilands Himmelsblumen\nund er ist unser Sonnenschein.", 
+            "refrain": "ref2" 
+        }
+      ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 29,
+      "name": "Niemals habe ich daran gedacht",
+      "refrains": {
+        "ref1": "Ref.: Gottes Gnade und Barmherzigkeit\nhat mich von der Sündenschuld befreit.\nHeil und Rettung ist für alle da, auf Golgatha!",
+        "ref2": " "
+      },
+      "strophen": [
+        { 
+            "text": "1) Niemals habe ich daran gedacht,\nwas der Herr für mich am Kreuz vollbracht.\nNie hab ich gedacht, was dort geschah, auf Golgatha!", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "2) Alles gab ich meinem Heiland hin\nund ich weiß, dass ich Sein Eigen bin.\nNun sing ich von dem, was dort geschah, auf Golgatha!", 
+            "refrain": "ref1" 
+        }
+      ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 30,
+      "name": "An dem Kreuz fand ich den Heiland",
+      "refrains": {
+        "ref1": "Ref.: Sonnenschein der Gnade strahlt täglich in dem Herzen mein,\ndenn wo Jesus Liebe leuchtet, kann es nicht mehr dunkel sein.",
+        "ref2": " "
+      },
+      "strophen": [
+        { 
+            "text": "1) An dem Kreuz fand ich den Heiland, allem Leid ward ich entrückt;\nund gestillt ist jedes Sehen, wenn ich auf das Kreuz geblickt.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "2) Nun nicht länger mehr beladen steh ich mit der Sündenlast,\nmein Erretter hat die Bürde mit durchgrabner Hand erfasst.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "3) Jeden Zweifel bring ich Jesus, jede Sorge, jedes Leid,\nund sein freundliches Berühren heilt und stärkt mich allezeit.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "4) Welcher Friede, welche Freude ward am Kreuz des Heilands mein!\nJubelnd rühm ich's Halleluja, es ist lauter Sonnenschein!", 
+            "refrain": "ref1" 
+        }
+      ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 31,
+      "name": "Bin erlöst von aller Sünd",
+      "refrains": {
+        "ref1": "Ref.: Gottes Kind zu sein ist wunderbar!\nPreis sie Gott, Halleluja!\nAll mein Sehnen geht zum Kreuze hin,\nweil ich Gottes Kind bin.",
+        "ref2": " "
+      },
+      "strophen": [
+        { 
+            "text": "1) Bin erlöst von aller Sünd\nund ich bin des Heilands Kind;\ndenn aus Lieb' zu mir kam Er vom Himmelsthron.\nJesus hat mich frei gemacht\nvon des Satans finstrer Macht.\nJa, so wunderbar ist Gottes Sohn.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "2) Manchem geht's nicht in den Sinn,\nwarum ich so glücklich bin;\ndenn sie sind von Gottes Lieb noch gar so fern.\nWenn sie fragen, wie das sei,\nwarum ich so froh und frei,\nsage ich von ganzem Herzen gern:", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "3) Ist mein Weg auch oft sehr schmal,\nist es dennauch keine Qual;\ndenn der Heiland, Er geht mir den Weg voran.\nAuf dem Lebensweg ich geh\nund vor Jesus ist einst steh;\ndenn der Pilgerlauf geht himmelan.", 
+            "refrain": "ref1" 
+        }
+      ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 32,
+      "name": "Eines Tages hörte ich (Und Seine Liebe ist viel wärmer)",
+      "refrains": {
+        "ref1": " ",
+        "ref2": " "
+      },
+      "strophen": [
+        { 
+            "text": " ", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": " ", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": " ", 
+            "refrain": "ref2" 
+        }
+      ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 33,
+      "name": "Gottes Liebe, sie hat keine Grenzen",
+      "refrains": {
+        "ref1": "Ref.: Ja, er nahm mich Sünder an\nund zog mir neue Kleider an,\nvergab mir alle meine Sünd’,\nund heut bin ich ein Gotteskind.",
+        "ref2": " "
+      },
+      "strophen": [
+        { 
+            "text": "1) Gottes Liebe, sie hat keine Grenzen,\ntiefer ist sie als das tiefste Meer,\nhöher reicht sie als die Sterne glänzen,\nweiter als die Nebel ziehn einher.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "2) Wohin sich mein Auge auch mag wenden,\nseh ich seine Allmacht, Lieb und Treu.\nJedes Blümlein, jedes Wesen spendet\nihm ein Lob, und ich preis ihn aufs neu.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "3) Gleich dem Herbst durchzog es meine Seele,\nach, der Lenz, er war so schnell dahin.\nDoch heut preis ich ihn aus voller Kehle,\nkann nur sagen, wie ich glücklich bin.", 
+            "refrain": "ref1" 
+        }
+      ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 34,
+      "name": "Ich bin erlöst und bin Sein Kind",
+      "refrains": {
+        "ref1": " ",
+        "ref2": " "
+      },
+      "strophen": [
+        { 
+            "text": " ", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": " ", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": " ", 
+            "refrain": "ref2" 
+        }
+      ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 35,
+      "name": "Niemand ist so treu und gut wie Jesus",
+      "refrains": {
+        "ref1": " ",
+        "ref2": " "
+      },
+      "strophen": [
+        { 
+            "text": " ", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": " ", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": " ", 
+            "refrain": "ref2" 
+        }
+      ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 36,
+      "name": "Mein Leben war ein einzig Jagen",
+      "refrains": {
+        "ref1": "Ref.: Das war der schönste Tag, den Gott mir jemals gab,\nals Jesus in mein dunkles Erdendasein kam! (2x)",
+        "ref2": " "
+      },
+      "strophen": [
+        { 
+            "text": "1) Mein Leben war ein einzig Jagen nach dem Glück,\nich wusste nichts von Gott und nichts von Golgatha.\nEin Teil des Lebenswegs lag hinter mir zurück.\nBis Gott mich suchte und ich endlich sagte: \"Ja!\"", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "2) Ich sah viel von der Lust und Freude dieser Welt.\nDoch Reichtum, Ruhm und Ehre machten mich nicht frei.\nMein Herz sucht ruhelos nach Frieden, Seelenruh,\nbis ich erkannte, dass mein Ruheplatz Jesus ist.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "3) So glücklich wie bei Jesus war mein Leben nie.\nEr gab mir alles, was mein Herz ersehnte je.\nUnd wenn ich heute denk den Lebensweg zurück,\nso weiß ich: Jesus brachte mir das höchste Glück.", 
+            "refrain": "ref1" 
+        }
+      ]
+  },
+
+      {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 37,
+    "name": "Ich bin froh, dass ich weiß, Gottes Eigen zu sein",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref2" 
+      }
+    ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 38,
+      "name": "Weit wie das Meer",
+      "refrains": {
+        "ref1": "Ref.: Weit, weit wie das Meer,\nweit, weit wie das Meer\nist Gottes Liebe, so weit wie das Meer. (2x)",
+        "ref2": " "
+      },
+      "strophen": [
+        { 
+            "text": "1) Als ich in der Welt so fern vom Heiland war,\nhat Er mich so sehr geliebt;\nging für mich ans Kreuz, erlitt den Tod allda,\nweil Er mich so sehr geliebt.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "2) Als ich auch noch habe Ihn so oft betrübt,\nhat Er dennoch mich geliebt.\nAls Er dann am Kreuz die Schulden trug für mich,\nhat Er mich so sehr geliebt.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "3) Alle deine Sünden dir dein Herr vergibt,\nweil Er dich so sehr geliebt.\nEwig, wer auf Gottes Güt und Gnade baut,\nJesu Angesicht einst schaut.", 
+            "refrain": "ref1" 
+        }
+      ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 39,
+      "name": "Deine Liebe kann ich nie bezahlen",
+      "refrains": {
+        "ref1": "Ref.: Jesus, Dank sei Dir allein.\nJesus, treu will ich Dir sein.\nJesus, Du bist alles mir,\nJesus, folgen will ich Dir.",
+        "ref2": " "
+      },
+      "strophen": [
+        { 
+            "text": "1) Deine Liebe kann ich nie bezahlen, Herr,\nnoch die Gnade, die Du mir erzeigst so sehr.\nJa, Du kümmerst Doch um mich, denn Dein Kind, o Herr,\nbin ich, dafür sag ich Dir von ganzem Herzen: \"Dankeschön!\"", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "2) Herr, ich lob und preise Dich aus Dankbarkeit,\nDu hast mich erlöst aus der Verlorenheit.\nAlles, Herr, hast Du getan, dass ich ewig leben kann.\nDankeschön, dass Du für mich am Kreuz gestorben bist.", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "3) Herr, ich weiß, die Zeit ist nur von Dir geliehn,\nund ich merke, wie die Jahre schnell entfliehn.\nIch will brauchbar sein für Dich, gib mir Kraft, o leite mich.\nIch gehöre Dir, o Herr, für alle Ewigkeit.", 
+            "refrain": "ref1" 
+        }
+      ]
+  },
+
+  {
+      "buch": "Glücklich sein nur im Herrn",
+      "nummer": 40,
+      "name": "Er fand mich",
+      "refrains": {
+        "ref1": " ",
+        "ref2": " "
+      },
+      "strophen": [
+        { 
+            "text": " ", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": " ", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": " ", 
+            "refrain": "ref2" 
+        }
+      ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 41,
+    "name": "Keiner ist wie Jesus",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref2" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 42,
+    "name": "Es zweifelt der Mensch",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref2" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 43,
+    "name": "Gottes Liebe hätt nie ich erahnt",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref2" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 44,
+    "name": "Tiefen Frieden fand ich",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref2" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 45,
+    "name": "Ich bin gewandert",
+    "refrains": {
+      "ref1": "Ref.: Ich sucht das Leben und fand nur Schein!\nNun weiß ich nichts mehr als Jesus allein.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Ich bin gewandert von Land zu Land,\nin tiefer Sehnsucht das Herz entbrannt.\nIch habe gesucht am Strom der Zeit\nund fand viel Tränen und Herzeleid.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "2) Viel wirre Lichter, in Wahn entfacht,\nund als sie sanken, war schwere Nacht.\nTief in mir selber hab ich gesucht,\ngelacht, gelitten, gefleht, geflucht.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) In Sturm und Stille, in Lust und Pflicht;\ndoch was ich suchte, das fand ich nicht.\nNun bin ich müde, mein Herz ist leer,\nein wrackes Boot in der Sehnsucht Meer.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "4) Das Herz voll Sünde mir fast zerbrach,\nes war so dunkel um mich die Nacht.\nDoch plötzlich sah ich ein helles Licht.\nIch durfte wissen: Mein Jesus liebt mich!", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "5) Zu Dir nun komm ich, Herr Jesus Christ;\nmein Herz zerrissen von Sehnsucht ist,\nbefleckt von Sünde, von Glut verbrannt.\nO, nimm es gnädig in Deine Hand!", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 46,
+    "name": "Ich bin jung und ich bin frei",
+    "refrains": {
+      "ref1": "Ref.: Ja, jung zu sein ist schön, und doch:\ngerettet sein, ist schöner noch,\ngerettet sein und jung zugleich,\nnichts macht so glücklich und so reich.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Ich bin jung und ich bin frei\nvon der Sündensklaverei,\nfreudig folg ich dem Herrn Jesus Christ.\nUnd ich wandre mit der Schar,\ndie zur Heimat zieht für wahr,\ndort, wo ewige Herrlichkeit ist.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "2) Ich bin jung und froh bereit,\nGott zu dienen allezeit\nmit den Gaben, die er mir verliehn,\nwill gewinnen viele noch,\nbin ein Streiter Christi doch,\ndarf im Kampf nimmer weichen und fliehn.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Ich bin jung und ja, ich weiß,\ndass der Kampf oft schwer und heiß,\nund für Jesus zu leiden es gilt.\nAber er wird mit mir gehn\nund mir treu zur Seite stehn;\ndenn sein Wort er gewisslich erfüllt.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "4) Ich bin jung, das bist auch du,\nund mit Sehnsucht lauschest du,\nmöchtest gern glücklich sein so wie ich.\nKomm auch du zum Heiland heut,\ner von Sünde dich befreit,\nglaub es doch, Jesus liebet auch dich!", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 47,
+    "name": "Ich hab einen Heiland",
+    "refrains": {
+      "ref1": "Ref.: Jetzt scheint mir noch heller am Himmel die Sonne,\nund ist noch viel weißer im Winter der Schnee.\nDrum bin ich so fröhlich und jauchze voll Wonne,\nich bin ja von Sünden und Elend erlöst!",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Ich hab einen Heiland, Er hat mich gefunden,\nhat selbst meine Sünden getragen ans Kreuz.\nIch war ganz versunken, an Sünden gebunden;\njetzt ist mir alles geschaffen ganz neu.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "2) Wunderbar ist doch das Leben in Jesus,\nund wie doch so finster war Satans Macht.\nWie arm und wie traurig ich einstmal gewesen,\nso fröhlich und reich hat mich Jesus gemacht.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Dir will ich nun danken, mein teurer Erlöser,\nfür die großen Werke, die Du tatst an mir.\nDu hast mich gewaschen, die Sünden vergeben\nund einst werd ich jubeln bei Dir ewiglich.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 48,
+    "name": "Ich kanns nicht fassen",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref2" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 49,
+    "name": "Ja, ich weiß genau",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref2" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 50,
+    "name": "O, welch Wunder",
+    "refrains": {
+      "ref1": "Ref.: Seit Jesus im Herzen mir wohnt,\nseit Jesus im Herzen mir wohnt,\nhab ich Frieden und Freud;\no welch seliges Heut;\nseit Jesus im Herzen mir wohnt.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) O, welch Wunder hat Gott in mir gnädig vollbracht,\nseit Jesus im Herzen mit wohnt,\nalles Sehnen gestillt und vorbei ist die Nacht,\nseit Jesus im Herzen mir wohnt.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "2) Auf dem Felsen des Heils meine Seele nun ruht,\nseit Jesus im Herzen mit wohnt,\nalle Schuld ist bedeckt durch das heilige Blut,\nseit Jesus im Herzen mir wohnt.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Nachdem Tag seiner Ankunft schau freudig ich aus,\nseit Jesus im Herzen mir wohnt,\nbin ein Fremdling hier unten und droben zu Haus,\nseit Jesus im Herzen mir wohnt.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "4) Selbst die Schatten des Todes, sie schrecken mich nicht,\nseit Jesus im Herzen mir wohnt, o Jerusalem droben,\nwie glänzt dein Licht, seit Jesus im Herzen mir wohnt.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "5) Und den Streiter erwartet die herrliche Kron,\nseit Jesus im Herzen mir wohnt,\nnach der Pilgerschaft droben ein ewiger Lohn,\nseit Jesus im Herzen mir wohnt.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 51,
+    "name": "Ein neues Leben hat Gott gegeben",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref2" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 52,
+    "name": "Gnade, die Jesus uns zugewandt",
+    "refrains": {
+      "ref1": "Ref.: Gnade, Gnade, Gnade vergibt dir und reinigt dich,\nGottes Gnade bringt die Errettung für dich und mich.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Gnade, die Jesus uns zugewandt,\ndie unsre Schuld und Sünde bedeckt,\nströmet von Golgatha weit ins Land,\ndort hat dein Heiland den Tod Geschmeckt.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "2) Hoffnungslos, trostlos und arm bist du,\neinsam, von kalten Wogen umtost.\nHier ist die Hilfe, so greif doch zu!\nJesus gibt Zuflucht, gibt echten Trost.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Flecken der Sünde, tief eingebrannt,\nwas wäscht sie weg, vertilgt diese Spur?\nSieh, Jesu Blut wird dir heut genannt,\nhier ist die Rettung, die Hilfe nur.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "4) Jesus, er starb doch an deiner Statt,\ndarum kann Gott auch dir verzeih'n,\nnichts and'res macht deine Seele satt!\nWillst du nicht heute begnadigt sein?", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 53,
+    "name": "Ich bin nicht wert aller Güte und Gnade",
+    "refrains": {
+      "ref1": "Ref.: Wunder der Gnade, wer kann es ermessen,\nGott hat mich Elenden niemals vergessen!\nIch war ein Sklave, Er kaufte mich los!\nO Liebe, so wunderbar, wunderbar groß!",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Ich bin nicht wert aller Güte und Gnade, die Gott mir in Jesus erzeigt;\nwie er dort am Kreuz als das Opferlamm Gottes zu mir, dem Verlornen, sich neigt!", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "2) Ich bin nicht wert aller Güte und Gnade, sie ist jeden Morgen neu.\nIn Freude und Leid darf ich immer erfahren: Mein Vater im Himmel ist treu!", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Ich bin nicht wert aller Güte und Gnade, wie gut, dass ich Jesus darf traun.\nUnd wenn hier mein Lebensweg naht seinem Ende, werd ich Ihn in Herrlichkeit schaun.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 54,
+    "name": "Nichts habe ich, was nicht frei ich empfing",
+    "refrains": {
+      "ref1": "Ref.: Einer, den Gottes Gnade fand!\nEiner, den Gottes Gnade fand!\nAn mir erwiesen, sei laut sie gepriesen:\nich bin einer, den die Gnade fand!",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Nichts habe ich was nicht frei ich empfing\ndurch Gottes Gnade bin ich, was ich bin!\nRühmen sei fern, doch das sei bekannt:\nich bin einer, den die Gnade fand!", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "2) Einst war ich arm und in Sünden verstrickt,\ndem Gott der Gnade so sehr fern gerückt,\ndoch Jesus kam und griff meine Hand,\nich bin einer, den die Gnade fand!", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Nicht meine Tränen je haben's gemacht,\nNur Sein Erbarmen hat alles vollbracht!\nSünden vergiftet, einst abgewandt,\nbin ich einer, den die Gnade fand!", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "4) Lass mich's dir sagen mit strahlendem Blick,\nmein Herz fließt über vor Freude und Glück;\nnoch einmal ruf ich's laut über's Land:\nIch bin einer, den die Gnade fand!", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 55,
+    "name": "Jesus Christus starb für mich",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref2" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 56,
+    "name": "Ich suchte nach wahrem Glück",
+    "refrains": {
+      "ref1": "Ref.: Friede, so wunderbar; Friede so wunderbar,\nFriede, so tief, so tief wie ein Strom! (2x)",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Ich suchte nach wahrem Glück und fand es in Jesus!\nHeut möcht ich nicht mehr zurück zu den Dingen der Welt.\nMein Herz war so friedelos, so voller Sorgen,\nheut jubelt es froh in mir, in Jesus geborgen!", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "2) Wenn dunkel der Weg auch ist und trübe die Stunden,\nso weiß ich, dass Jesus Christ ist mein Retter und Herr!\nMit Ihm überwinden weit, die an Ihn glauben\nund klein wird das Herzeleid und groß wird der Friede.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Es lohnt sich der Pilgerlauf, das Ziel ist bei Jesus!\nDann jauchzen wir singend dort zu dem Retter und Herr!\nDann wird in der Herrlichkeit, vom Gott zum lohne,\nin lichter Vollkommenheit, der Friede ja wohnen.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 57,
+    "name": "Ich fand den Weg",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Ich fand den Weg, den die Welt noch nicht erkannt hat.\nIch fand den Weg, den die Bibel offenbart.\nIn Jesus Christus fand ich das ewge Leben.\nEr ist der Weg und kein andrer Weg ist wahr.\nIn Jesus Christus fand ich das ewge Leben.\nEr ist der Weg und kein andrer Weg ist wahr.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "2) Wenn mich Verwandte und Freunde nicht verstehen,\nwill ich sie lieben, noch mehr als je zuvor.\nIch will mit Jesus auch schwere Wege gehen,\ndenn Er gibt wieder, viel mehr, als ich verlor.\nIch will mit Jesus auch schwere Wege gehen,\ndenn Er gibt wieder, viel mehr, als ich verlor.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Auf diesem Weg, der mir Freude bringt wie Schmerzen,\nden schon mein Herr mir vorausgegangen ist,\nauf diesem Weg nur geht's heim zum Vaterherzen,\nwo ewge Fülle des Lebens mich umschließt.\nAuf diesem Weg nur geht's heim zum Vaterherzen,\nwo ewge Fülle des Lebens mich umschließt.", 
+          "refrain": "ref2" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 58,
+    "name": "Meine Hände waren voll von Dingen",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Meine Hände waren voll von Dingen,\ndie mit Stolz ich einstmals nannte mein.\nViel' Vergnügen wolle ich erringen,\nviel Enttäuschung brachten sie mir ein.\nAber Jesus nahm mir meine Hände,\nließ sie stille in den seinen ruhn,\nmachte meiner eitlen Lust ein Ende,\nalles dient nun seinem ewgen Ruhm.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "2) Meine Hände waren alle Tage\nimmer unrein und mit Stolz befleckt.\nAch, umsonst war alle meine Plage,\nmeine Sünde war noch nicht bedeckt.\nAber Jesus nahm mir meine Hände,\nließ sie meinen in den seinen ruhn;\nmachte so der Unruh bald ein Ende,\ndurch sein Blut war ich gehorsam nun.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Ohne Ziel, das waren meine Hände,\nnur dem eignen Willen untertan.\nGleich als ob man so sein Leben fände,\nwie betrog ich mich im eignen Wahn.\nAber Jesus nahm mir meine Hände,\nließ die seinen auf den meinen ruhn,\nmachte so der Unruh bald ein Ende,\nwie befreit bin ich durch Jesus nun!", 
+          "refrain": "ref2" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 59,
+    "name": "Wunder sind mir kein Problem",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref2" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 60,
+    "name": "Jesus ist alles, alles mir",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Jesus ist alles, alles mir,\nmein Glück, mein Trost, mein Heil,\nist meine Kraft von Tag zu Tag\nund meiner Seele Teil.\nWenn ich betrübt und traurig bin,\nleg ich es Ihm zu Füßen hin.\nBin ich betrübt, Jesus mich liebt,\nEr mein Freund.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "2) Jesus ist alles, alles mir,\nund soll es einzig sein,\nund Ihm will ich aufs Neue mich\nmit Leib und Seele weihn.\nEr soll es sein, der mich regiert,\nIhm will ich folgen, wie Er führt.\nDer mich regiert, gnädig mich führt,\nist mein Freund.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Jesus ist alles, alles mir,\nEr stehet felsenfest.\nGeht auch mein Fuß durchs finstre Tal,\nEr nimmer mich verlässt.\nO, welch ein Glück, an Seiner Hand\npilgern zum ew'gen Heimatland.\nAn Seiner Hand zum goldnen Strand,\nführt mein Freund.", 
+          "refrain": "ref2" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 61,
+    "name": "Ich besinge Dich, mein Heiland",
+    "refrains": {
+      "ref1": "Ref.: Dieses Lied gibt Trost und Freude, Herzensfrieden, tiefe Ruh.\nHier find ich die Kraft, zu gehen. Dieses Lied, mein Herr, bist Du!",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Ich besinge Dich, mein Heiland! Du bist meiner Seele Lied.\nAuf dem Weg durch Schmerz und Tränen dieses Lied mich zu Dir zieht.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "2) Ist der Weg auch steil und dornig, dieses Lied hilft mir, zu gehn;\nauf dem Pfad zur ew’gen Heimat jedem Feind zu widerstehn.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Und wenn ewig ich zu Hause, dieses Lied in mir erklingt.\nDann von heil’gem, ew’gen Leben es in meinem Herzen singt.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 62,
+    "name": "Du kannst vieles noch an Gott nicht verstehen (Bist du da, Gott?)",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref2" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 63,
+    "name": "Suchst du in der Welt",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref2" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 64,
+    "name": "Er gibt dir mehr Gnade (Er gibt mir die Gnade)",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref2" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 65,
+    "name": "Es ist niemals ein Tag so traurig",
+    "refrains": {
+      "ref1": "Ref.: Herrlicher, herrlicher Jesus, in das Herz legst Du froh Gesang;\nein Lied der Befreiung, des Mutes, der Kraft. Tief im Herzen drin weckst Du Gesang.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Es ist niemals ein Tag so traurig, es ist nie eine Nacht so lang,\ndass die Seele, die trauert auf Jesus, nicht fänd einen Lobgesang.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "2) Es ist niemals ein Kreuz so drückend, nie das Weh und die Last so schwer,\ndass nicht Jesus sie gern würde tragen, denn Er liebt dich ja so sehr.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Nie zu schuldig ein armer Sünder, nie zu weit je ein Wandrer ist,\ndass nicht gerne ihm Gott wollte vergeben in Seinem Sohn Jesus Christ.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 66,
+    "name": "Freund, warum so viele Sorgen",
+    "refrains": {
+      "ref1": "Ref.: O, leg sie ab, die schwere Last, die du so lang getragen hast.\nJesus gibt Ruh, o glaub es nur, sein Blut gab er für dich und mich.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Freund, warum so viele Sorgen, sag, woher die schwere Last,\ndie du trägst vom frühen Morgen bis hinein in die späte Nacht?", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "2) Ist es nicht die Last der Sünde, der dich plaget und dich quält?\nNirgend kannst du Ruhe finden, sag, mein Freund, wo es dir fehlt!", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Gestern warst du noch so glücklich, heute bist du ohne Freud'.\nLiebe Seele, drum ich bitt dich, bringe Jesus heut' dein Leid.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "4) Noch stehn Jesu Retterarme und sein Herz für dich bereit.\nHier ist Hilfe und Erbarmen, heute ist noch Gnadenzeit!", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 67,
+    "name": "Ich darf bei ihm sein",
+    "refrains": {
+      "ref1": "Ref.: Ruhe, Friede, sicher und getrost trotz aller Not.\nRuhe, Friede, in der starken Hand bei meinem Gott.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Ich darf bei ihm sein, soll ich mich nicht freun?\nDenn ich ruh geschützt in seiner Hand.\nAngst und Einsamkeit sind Vergangenheit,\ndenn ich ruh geschützt in seiner Hand.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "2) Was kann schöner sein, als sein Kind zu sein?\nDenn ich ruh geschützt in seiner Hand.\nHell scheint mir sein Licht, ich verirr mich nicht,\ndenn ich ruh geschützt in seiner Hand.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Bin ich auch bedrängt, traurig und gekränkt,\nruh ich doch geschützt in seiner Hand.\nFriede hüllt mich ein, ja, ich darf mich freun,\ndenn ich ruh geschützt in seiner Hand.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 68,
+    "name": "Ich find allein den Weg nicht heim",
+    "refrains": {
+      "ref1": "Ref.: In diesem Leben, da brauch ich einen Führer.\nIm Sturmgebraus, in dunkler Nacht, da such ich Halt.\nSichere Zuflucht habe ich bei Jesus.\nDrum sing ich froh und frei mein Lied erschallt.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Ich find allein den Weg nicht heim.\nIch find allein den Weg nicht heim.\nIch brauch den Herrn, dass Er mit mir geht\nund mir im Kampf zur Seite steht.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "2) Oft ist durch Not mein Web beschwert.\nDoch Jesus mein Gebet erhört.\nFleh ich zu Ihm so hört Er mein Schrein.\nbefreit mein Herz von aller Pein.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Nun wandle ich mit meinem Herrn.\nDen Weg mit Ihm geh ich so gern.\nIch traue Ihm, dem sichern Hort,\nund baue fest auf Seinem Wort.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 69,
+    "name": "Ich weiß zwar nicht, was mir die Zukunft bringt",
+    "refrains": {
+      "ref1": "Ref.: Sein Eigentum möcht ich für immer sein! Wo Er mich führt, folg ich Ihm nach.\nEs ist gewiss, was immer kommen mag: Stets folge ich dem Heiland nach!",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Ich weiß zwar nicht, was mir die Zukunft bringt, jedoch bin ich niemals allein.\nIch fand den Freund, der immer bei mir ist. Er ruft mir zu: \"Kind, du bist Mein.\"", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "2) Es ist mein Gebet, solang ich hier noch bin, dass ich darf geh'n, wo Er mich führt.\nEs ist mein Gebet, dass ich Ihn in mir hab' den Frieden, den allein Er gibt.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Wenn einst mein Weg führt mich dem Ende zu und ich werd stehn vor Gottes Thron,\ndann darf ich schaun all' Seine Wundermacht, die ich erfuhr in Seinem Sohn.", 
+          "refrain": "ref2" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 70,
+    "name": "In dem Herzen glüht ein Licht",
+    "refrains": {
+      "ref1": "Ref.: Es ist Jesus! Es ist Jesus!\nLeuchten wird Er durch die Ewigkeiten fort.\nWenn die Sonne und der Mond schon längst verloschen.\nbleibt Er stets mein Licht in jenem Lande dort.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) In dem Herzen glüht ein Licht, das leuchtet immer.\nEs ist Jesus, es ist Jesus!\nAll das Dunkle dieser Welt vermag auch nimmer\nauszulöschen dieses Licht in meinem Herz.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "2) Wenn der Lebensabend naht, kennt Er die Sorgen.\nEs ist Jesus, es ist Jesus!\nUnter Seinem starken Arm bin ich geborgen,\nbis der ew'ge Tag in Seinem Reich anbricht.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) In dem dunklen Tal des Todes Er begleitet.\nEs ist Jesus, es ist Jesus!\nHand in Hand mein treuer Herr mich sicher leitet.\nAuch in dunkler Nach ist mir der Heiland nah.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 71,
+    "name": "Trau auf den Herrn",
+    "refrains": {
+      "ref1": "Ref.: Sing, wenn der Tag dir lacht!\nSing auch in dunkler Nacht!\nJeden Tag, wie's sein mag,\nsing, mein Herz, o sing!",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Trau auf den Herrn und zweifle nicht;\nEr ist ein Freund so treu.\nWas immer Dir zur Stund gebricht,\nEr bringt dich durch auf's Neu!", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "2) Glaub Seinem Wort und zweifle nicht;\nEr lässt dich nie allein.\nSein treues Auge wacht für dich,\nbei Nacht und Sonnenschein.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Sei nur getrost und freue dich,\nes liebt dich ja der Herr.\nHerrlichkeit ist bereit für dich\nund Gnade, tief wie's Meer.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "4) Es ist so schön, dem Herrn vertraun\nund Seiner Hände Tun,\nbeständig auf Sein Antlitz schaun,\nin Seiner Liebe ruhn!", 
+          "refrain": "ref1" 
+      }
+    
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 72,
+    "name": "Wenn morgens in den Tag ich geh (Sein starker Arm)",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref2" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 73,
+    "name": "Wenn du mit Jesus gehst",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref2" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 74,
+    "name": "Du bist mein Zufluchtsort (ich berge mich in deiner Hand)",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "Du bist mein Zufluchtsort.\nIch berge mich in Deiner Hand,\ndenn Du schützt mich, Herr.\nWann immer mich Angst befällt, traue ich auf Dich.\nJa, ich trau auf Dich, und ich sage:\n\"Ich bin stark in der Kraft meines Herrn.\"", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref2" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 75,
+    "name": "Fass Jesu Hand",
+    "refrains": {
+      "ref1": "Ref.: An Jesus Hand, da enden alle Fragen,\nganz nah bei Ihm erlebt man Herrlichkeit.\nEr hat gesagt: \"Mein Kind, du brauchst nicht zagen;\nIch bring dich durch, auch durch den Sturm der Zeit!\"",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Fass Jesu Hand und schau getrost nach oben!\nEr schenkt Geborgenheit dir tief ins Herz.\nVertraue Ihm, auch wenn die Zweifel toben;\nglaube Ihm, der niemals dich verlässt.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "2) Wie Freunde tun, so reden wir zusammen;\nein Tag ist schöner noch, als der vorher.\nUnd wenn ich müde bin, hilft Er mir tragen\nwie ein Freund; so wird die Last nicht schwer.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 76,
+    "name": "Manche Stunden im Leben",
+    "refrains": {
+      "ref1": "Ref.: leise ich weine, rufe zu Dir. Du bist da, mir so nah,\nDeine Stimme spricht, gibt mir Kraft und Zuversicht.\nGroßer Gott, bist mein Freund, kann's kaum glauben\nhier, doch ich spür's: Du bist bei mir.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Manche Stunden im Leben sin voll Kummer und Schmerz.\nNicht immer scheint die Sonne bis hinein in mein Herz.\nWenn von Feinden umgeben, von Versuchung geplagt,\nvon Menschen enttäuscht, mir Bitterkeit naht.\nBin ich alleine, niemand bei mir,", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "2) Viele Lichter, sie leuchten, viele Farben so bunt.\nViele Stimmen, sie locken aus mancherlei Mund.\nSchöne Bilder beglücken wie die Träume bei Nacht,\nviele Klänge ertönen, die Welt um mich lacht.\nTrotzdem alleine, niemand bei mir,", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 77,
+    "name": "O Jesus, mein Heiland, ich hab Dich so lieb",
+    "refrains": {
+      "ref1": "Ref.: Du bist ja so gnädig, o Herr, Jesus Christ.\nDu kamst für uns Sünder und hast uns so lieb.\nDir will ich gehorchen und treu folgen nach,\nführ Du mich durchs Leben und halt mich stets wach.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) O Jesus, mein Heiland, ich hab' Dich so lieb.\nDu gibst mir den Kampf und gibst mir den Sieg.\nO Jesus, mein Heiland, Du bist mir so nah',\nin Dir bin ich glücklich bei Tag und bei Nacht.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "2) O Jesus, mein Heiland, Du bist ja mein Trost,\nbei Dir find' ich Frieden in all meiner Not.\nO Jesus, mein Heiland, Du bist ja mein Glück,\nund schenkst mir nur alles, worum ich dich bitt'.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) O Jesus, mein Heiland, ich danke Dir nun\für all Deine Liebe, an der wir uns freu'n.\nIch folge Dir immer durch Trübsal und Freud',\nbis einst ich Dich sehe und mich ewig freu'.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 78,
+    "name": "Tag für Tag, in allen Lebenslagen",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref2" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 79,
+    "name": "Was Gott verheißen",
+    "refrains": {
+      "ref1": "Ref.: Was Gott verheißen, das will Er geben,\nmag alles beben, es bleibt bestehn.\nWenn auch verlöschen die Sterne alle.\nWas Gott verheißen, bleibt bestehn!",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Was Gott verheißen, das bleibt bestehen,\nund wenn auch Himmel und Erd vergehen.\nWenn unsre Stützen zerbrechen alle:\nWas Gott verheißen, das hält!", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "2) Was Gott verheißen, hält auch in Zeiten,\nwenn Mut und Hoffnung uns will entschwinden,\nund müd wir sinken im heißen Streiten,\nwas Gott verheißen, wankt nie.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Was Gott verheißen, hält auch im Sterben,\nim heißen Fieber, wenn's Leben schwindet;\ndes HeiIands Hände dann für uns werben.\nWas Gott verheißen, stirbt nie.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "4) Was Gott verheißen, hält auch am Tage,\nwo Gott uns rettet aus Not und Plage,\ndie Siegeskrone dort dann empfangen,\ndie überwunden durchs Blut.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 80,
+    "name": "Wie Freunde zusammen gehn",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref2" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 81,
+    "name": "Durch herrliche Auen",
+    "refrains": {
+      "ref1": "Ref.: Er führt durch Wasser, durch tiefe Flut,\nführt dich durch Feuer, dich heilt Jesus Blut.\nIn Not und Trübsal gibt er dir Mut.\nIn Nacht und Grauen ist er deine Hut.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Durch herrliche Auen, so blühend und licht,\nbahnt Gott seinen Kindern den Weg.\nWo das Wasser erfrischt, dem an Mut es gebricht,\nbahnt Gott seinen Kindern den Weg.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "2) Oft über die Höhn, wo die Sonne und lacht,\nbahnt Gott seinen Kindern den Weg.\nDoch oft auch durchs Tal, durch die dunkelste Nacht,\nbahnt Gott seinen Kindern den Weg.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Wenn Sorge uns drückt, uns Satan erscheint,\nbahnt Gott seinen Kindern den Weg.\nIn ihm sind wir Sieger! Im Kampf mit dem Feind,\nbahnt Gott seinen Kindern den Weg.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "4) Hinweg von der Sünde, von Nacht und von Leid,\nbahnt Gott seinen Kindern den Weg.\nHinein in die Fülle zukünftiger Zeit,\nbahnt Gott seinen Kindern den Weg.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 82,
+    "name": "Heiland, führe Du Dein Kind",
+    "refrains": {
+      "ref1": "Ref.: Führe, führe,\nführe mich durch Nacht zum Licht,\nund wenn alles wankt und bricht,\nbleib Du meine Zuversicht!",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Heiland, führe Du dein Kind,\nDeine Hand ist stark und lind,\nmeine Burg, mein Fels, mein Licht,\nJesu, meine Zuversicht!", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "2) Droht der Feind, bist Du mein Hort,\ntost der Sturm, bist Du mein Port,\nalles, alles bist Du mir,\nJesu, o, ich traue Dir!", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Drum, so nimm denn meine Hand,\führ mich bis ins Vaterland,\nheiter folg ich Schritt für Schritt,\ndenn mein Jesus geht ja mit.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 83,
+    "name": "Herr, mach mir deine Wege bekannt",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "Herr, mach mir deine Wege bekannt\nund zeige mir deine Pfade.\nIn deine Wahrheit führe mich\nund lehre mich, ja lehre mich.\nDenn du bist der Gott, der mir helfen kann,\ndu bist der Gott, der mich retten kann.\nDen ganzen Tag harre ich dein,\nden ganzen Tag harre ich dein.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 84,
+    "name": "Herr, du bist da",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 85,
+    "name": "Jesus, wir sehen auf dich",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 86,
+    "name": "Ich geh in den Garten allein",
+    "refrains": {
+      "ref1": "Ref.: Und er geht mit mir,\nund er spricht mit mir,\nund er sagt mir: Kind, du bist mein.\nJeder Augenblick ist ein wahres Glück;\nes kännte nichts sel'ger sein.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Ich geh in den Garten allein,\nmeinem Heiland dort zu begeben.\nUnd ich höre schon\nseiner Stimme Ton,\ner wird mich sicher segnen.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "2) Er spricht, sein melodisches\nWort ist so süß, die ganze Welt schweiget;\nselbst der Vogelsang,\ner verliert den Klang,\nmein Herz sich vor ihm neiget.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Gern blieb' ich im Garten bei ihm,\nbis mich schon die Dämm'runf umhüllet;\ndoch er heißt mich gehn,\nund ich soll's verstehn,\ner all mein Sehnen stillet.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 87,
+    "name": "In Gottes Hand bin ich sicher geborgen",
+    "refrains": {
+      "ref1": "Ref.: In Gottes Hand, in Gottes Hand,\nwas kann mich von Ihm denn scheiden?\nIn Gottes Hand ist Friede für mich,\nhier darf ich allezeit bleiben.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) In Gottes Hand bin ich sicher geborgen.\nEr wird mich schützen, denn ich bin Sein Kind.\nDrohende Stürme und drückende Sorgen\nmüssen verwehen wir Blätter im Wind.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "2) In Gottes Hand find ich Ruhe für heute,\nwenn im Getriebe des Tages ich steh.\nWenn mich so manches auch schmerzlich enttäuschte,\nGottes Hand hält ich, weil ich mit Ihm geh.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) In Gottes Hand darf im Glauben ich stehen,\nweil mich der Herr all mein Leben lang hält.\nWas Er auch immer für mich hat ersehen,\ndas will ich gern tun, weil Ihm es gefällt.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 88,
+    "name": "Lass du mich stille werden (mein Herr und Gott)",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Lass du mich stille werden, mein Herr und Gott,\nnur deine Stimme hören in Glück und Not,\nnur deine Stimme hören in Glück und Not.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "2) Bring alles eigne Wollen in mir zur Ruh,\nund meines Lebens Fragen entscheide du,\nund meines Lebens Fragen entscheide du.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Wenn ich den Weg nicht finde in dunklem Streit,\nleucht mir mit ew'gem Lichte durch diese Zeit,\nleucht mir mit ew'gem Lichte durch diese Zeit.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "4) Reich mir die Gnadenhände in meinem Lauf;\nzieh Blicke und Gedanken zu dir hinauf,\nzieh Blicke und Gedanken zu dir hinauf!", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "5) Bin ich in deinem Bilde dereinst erwacht,\ndann rühm ich deine Gnade: du hast's vollbracht,\ndann rühm ich deine Gnade: du hast's vollbracht.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 89,
+    "name": "Weiß ich den Weg auch nicht",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Weiß ich den Weg auch nicht, du weißt ihn wohl;\ndas macht die Seele still und friedevoll.\nIst's doch umsonst, dass ich mich sorgend müh,\ndass ängstlich schlägt mein Herz, sei's spät, sei's früh.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "2) Du weißt den Weg für mich, du weißt die Zeit,\ndein Plan ist fertig schon und liegt bereit.\nIch preise dich für deiner Liebe Macht,\nich rühm die Gnade, die mir Heil gebracht.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Du weißt, woher der Wind so stürmisch weht,\nund du gebietest ihm, kommst nie zu spät,\ndrum wart ich still, dein Wort ist ohne Trug,\ndu weißt den Weg für mich, das ist genug.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 90,
+    "name": "Seit in den Tod mit dem Heiland ich ging",
+    "refrains": {
+      "ref1": "Ref.: Stunde um Stunde hab in ihm ich Ruh,\nfließt seine Kraft und sein Leben mir zu,\nwart ich auf Jesus, bis dass er erschein,\nStunde um Stunde, o Herr, bin ich dein.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Seit in den Tod mit dem Heiland ich ging,\nan seinem Kreuze das Leben empfing,\nwart ich auf Jesus, bis dass er erschein,\nStunde um Stunde, o Herr, bin ich dein!", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "2) Nie einen Streit, wo die Wahrheit erliegt,\nnie einen Kampf, in dem Jesus nicht siegt,\nhellleuchtend strahlt seiner Liebe Panier,\nStunde um Stunde ist Jesus bei mir!", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Niemals Versuchung, die vor ihm nicht flieht,\nnie einen Kummer, den Jesus nicht sieht;\nie eine Last mehr, er nimmt sie auf sich;\nStunde um Stunde sorgt Jesus für mich.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "4) Nie eine Träne und nie einen Schmerz,\nnie einen Seufzer, der nicht trifft sein Herz,\niemals Gefahren, die fremd für ihn sind.\nStunde um Stunde sorgt Gott für sein Kind", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 91,
+    "name": "Sitzend zu den Füßen Jesu",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Sitzend zu den Füßen Jesu,\no welche Worte höre ich.\nSelger Ort, in Seiner Nähe\nlass mich weilen ewiglich.\nSitzend zu den Füßen Jesu,\ndenk ich Seiner Führung nach.\nSeine Liebe unermesslich\nmir mein stolzes Herze brach.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Sitzend zu den Füßen Jesu,\nkann ein Mensch wohl selger sein?\nHier leg ab ich Sünd und Schmerzen,\nhier zog Gott ins Herze ein.\nGern sitz ich zu Jesu Füßen,\nklag Ihm alle meine Not,\nhier schenkt Er mir volles Leben,\nführet mich bis in den Tod.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Segne mich, mein Jesus segne,\nda ich Dir zu Füßen lieg.\nSchau in Liebe auf mich nieder,\ngib mir allezeit den Sieg.\nGib mir, Herr, die wahre Demut,\nhalt mich heilig, wie Du bist.\nLass mich wandeln Deine Wege,\nmit Dir, Heiland, Jesus Christ.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 92,
+    "name": "Trost und Vergebung",
+    "refrains": {
+      "ref1": "Ref.: Niemand wie Du, niemand wie Du,\nniemand kann trösten und helfen wie Du.\nAll unser Leid, selbst den Tod schmecktest Du,\ndarum kann keiner so trösten wie Du.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Trost und Vergebung quillt allezeit aus Dir.\nStill war ich an Deiner Brust.\nJesus, Du redest so innig mit mir,\nDu bist mein Fried, meine Lust.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Vater und Mutter, sie lieben ihr Kind,\ndoch Dein Erbarmen ist mehr.\nDu hast versöhnt und getilgt meine Sünd,\nDir war das Kreuz nicht zu schwer.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Naht eine Prüfung, kommt Krankheit und Not,\nDu bleibst mein Gut und mein Teil.\nHeiland in Schmerzen und Sieger im Tod,\nin Deinen Wunden ist Heil.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "4) Bin ich entmutigt, Du richtest mich auf,\nhilfst, wenn die Hoffnung mir fehlt,\nstillst meine Sehnsucht und stärkst mich im Lauf,\nhast meine Tränen gezählt.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 93,
+    "name": "Von guten Mächten wunderbar geborgen",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Von guten Mächten treu und still umgeben,\nbehütet und getröstet wunderbar,\nso will ich diese Tage mit euch leben\nund mit euch gehen in ein neues Jahr.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Noch will das Alte unsre Herzen quälen,\nnoch drückt uns böser Tage schwere Last.\nAch Herr, gib unsern aufgeschreckten Seelen\ndas Heil, für das du uns geschaffen hast.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Und reichst du uns den schweren Kelch, den bittern\ndes Leids, gefüllt bis an den höchsten Rand,\nso nehmen wir ihn dankbar ohne Zittern\naus deiner guten und geliebten Hand.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "4) Doch willst du uns noch einmal Freude schenken\nan dieser Welt und ihrer Sonne Glanz,\ndann wolln wir des Vergangenen gedenken,\nund dann gehört dir unser Leben ganz.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "5) Lass warm und hell die Kerzen heute flammen,\ndie du in unsre Dunkelheit gebracht,\nführ, wenn es sein kann, wieder uns zusammen.\nWir wissen es, dein Licht scheint in der Nacht.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "6) Wenn sich die Stille nun tief um uns breitet,\nso lass uns hören jenen vollen Klang\nder Welt, die unsichtbar sich um uns weitet,\nall deiner Kinder hohen Lobgesang.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "7) Von guten Mächten wunderbar geborgen,\nerwarten wir getrost, was kommen mag.\nGott ist bei uns am Abend und am Morgen\nund ganz gewiss an jedem neuen Tag.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 94,
+    "name": "Wehrlos und verlassen",
+    "refrains": {
+      "ref1": "Ref.: Unter Deinem sanften Fittich\nFind ich Frieden, Trost und Ruh,\nDenn Du schirmest mich so freundlich\nSchützest mich und deckst mich zu.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Wehrlos und verlassen sehnt sich\nOft mein Herz nach stiller Ruh;\nDoch Du deckest mit dem Fittich\nDeiner Liebe sanft mich zu.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Drückt mich Kummer, Müh und Sorgen,\nMeine Zuflucht bist nur Du,\nRettest mich aus allen Ängsten,\nTröstest mich und deckst mich zu.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Sicher bin ich und geborgen,\nDenn bei Dir ist süße Ruh;\nMag es auch im Leben stürmen,\nHerr, Dein Fittich deckt mich zu.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "4) Kommt dann meine letzte Stunde,\nGeh ich ein zur ew’gen Ruh;\nUnd Du deckst mit Deinen Flügeln\nEwiglich Dein Kindlein zu.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+  
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 95,
+    "name": "Zeige mir, o Herr, Deine wege",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "Zeige mir, o Herr, Deine Wege und lehre mich zu wandeln im Licht!\nZeige mir, o Herr, Deine Wege und lehre mich zu wandeln im Licht!\nDenn ich möchte nicht mehr irren im Dunkeln, keine eigenen Wege mehr gehen!\nZeige mir, o Herr, Deine Wege und lehre mich zu wandeln im Licht!", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 96,
+    "name": "Zünde an dein Feuer (Quelle des Lebens)",
+    "refrains": {
+      "ref1": "Ref.: Quelle des Lebens\nund der Freude Quell',\nDu machst das Dunkel\nmeiner Seele hell.\nDu hörst mein Beten,\nhilfst aus aller Not,\nJesus, mein Heiland,\nmein Herr und Gott.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Zünde an Dein Feuer,\nHerr, im Herzen mir,\nhell mög' es brennen,\nlieber Heiland, Dir.\nWas ich bin und habe,\nsoll Dein Eigen sein.\nIn Deine Hände\nschließe fest mich ein.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Wollest mich bewahren,\nwenn der Satan droht,\nDu bist der Retter,\nHerr, von Sünd' und Tod.\nIn der Weltnacht Dunkel\nleuchte mir als Stern,\nHerr, bleibe bei mir,\nsei mir niemals fern.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Bald wird uns leuchten\nGottes ew'ges Licht,\nfreue Dich, Seele,\nund verzage nicht!\nLass die Klagen schweigen,\nwenn das Lied erschallt\nfröhlichen Glaubens:\nUnser Herr kommt bald.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 97,
+    "name": "Gott war so gut zu mir",
+    "refrains": {
+      "ref1": "Ref.: Gott war so gut zu mir.\nGott war so gut zu mir.\nIch lobpreise den Herrn,\nniemals war Er mir fern.\nJa, Gott war so gut zu mir.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Gott war so gut, Er war bei mir,\nals in Stürmen des Lebens ich stand.\nEr bewahrte und führte mich sicher,\nauch wenn ich Ihn nicht immer verstand.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Gott gab mir Kraft aus der Fülle;\njeder Segen kam von Seiner Hand.\nAuch in Fragen und schwerer Entscheidung\ngab Er mir Seinen Rat und Verstand.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Dies sag ich allen zum Zeugnis:\nFür den Herrn leben hat sich gelohnt.\nEr gab Sieg in so mancherlei Kämpfen\nund mit Freude hat Er mich belohnt.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "4) Bald werde ich vor Ihm stehen,\nmeinem Heiland, der alles mir war.\nDann will ich Ihn dort loben und preisen\nfür Sein Werk, das auf Erden geschah.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 98,
+    "name": "Glaube Gott und schau getrost nach oben",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 99,
+    "name": "Blicke nach oben im Sturm dieser Zeit",
+    "refrains": {
+      "ref1": "Ref.: Droben ist Einer, der über alles regiert,\nder über Höhn und Tiefen dich führt.\nEr legt seinem Kinde zu Schweres nicht auf,\ndrum blicke zum Himmel hinauf!",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Blicke nach oben im Sturm dieser Zeit,\nblicke hinauf! Im Wechsel der Zeiten,\nin Freude und Leid, blicke hinauf!", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Wenn du mit Tränen den Morgen empfängst,\nblicke hinauf! Und wenn du mit Bangen\ndie Zukunft bedenkst, blicke hinauf!", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Wenn dieser Eine dein Liebstes dir nimmt,\nblicke hinauf! Und wenn dir im Schmerze\ndie Träne auch rinnt, blicke hinauf!", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "4) Hier ist der Pilger nicht ewig zu Haus,\nblicke hinauf! Wo Not und Beschwerden\nfür immer sind aus, blicke hinauf!", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 100,
+    "name": "O, es ist wunderbar",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 101,
+    "name": "Bist du vom Lebenskampf müde und matt",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 102,
+    "name": "O wie schön der Dienst des Gebets",
+    "refrains": {
+      "ref1": "Ref.: O wie schön der Dienst des Gebets.\nWelch ein Vorrecht ist es doch stets,\nfür die Seelen zu flehn, die sonst verloren gehn!\nO wie schon der Dienst des Gebets.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) O welch eine Pflicht und doch ein Vorrecht\nhat hier doch Gottes Beterschar.\nIm Gebet dürfen wir uns Ihm nahen\nund alles Ihm dann bringen dar.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) O du brauchst nicht Talente und Gaben;\noft wird dieser Dienst nicht geschätzt.\nDu brauchst nur ein Herz voller Liebe\nund Glauben, der Berge versetzt.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) O wie brauchen wir in der Gemeinde\ndie Menschen, die Beter hier sind.\nIm Gebet sie hier Siege erringen.\nEin Beter sei du, Gotteskind!", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 103,
+    "name": "Des Gebetes Macht ist stark",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 104,
+    "name": "Der Tag vergeht und kommt nie mehr zurück",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 105,
+    "name": "Abend wird es in der Welt",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Abend wird es in der Welt, leise kommt die Nacht;\nund am dunklen Himmelszelt strahlt der Sterne Pracht.\nVoller Dank blick ich zu Dir, meinem Heiland, auf.\nDeine Gnade war mit mir diesen Tageslauf.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Dieser Tag, er brachte mir Freude und auch Leid;\naber ich will danken Dir, Herr, doch allezeit.\nWo ich Unrecht hab getan, lieber Herr, verzeih,\nhilf mir, dass auf rechter Bahn stets mein Leben sei!", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Decke Du mich heute Nacht mit der Gnade zu,\nhalte Du die treue Wacht, gib mir sanfte Ruh!\nAbend wird es in der Welt, leise kommt die Nacht,\nund am dunklen Himmelszelt strahlt der Sterne Pracht.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 106,
+    "name": "Sonnenschein der Gnade Jesu",
+    "refrains": {
+      "ref1": "Ref.: Wahre Freude ist bei Jesus, Er erfüllt die Seele mein.\nSo leb ich in Seiner Nähe, Er ist mein und ich bin Sein.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Sonnenschein der Gnade Jesu macht mich fröhlich allezeit.\nJeden Tag erleb ich's wieder, seit ich mich dem Herrn geweiht.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Was mir fehlt, find ich bei Jesus, Er versorgt mich für und für.\nAuch für meine kleinsten Sorgen hat Er eine offne Tür.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Gnadenreiche Nähe Jesu macht mich stille allezeit.\nAuch im Sturm und trüben Tagen ist zum Trösten Er bereit.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "4) Wenn ich froh mein Lauf vollendet, ruhe ich bei Jesus aus.\nFreud und ewge Wonne spendet Er mir dann im Heimathaus.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 107,
+    "name": "Ich war immer so einsam",
+    "refrains": {
+      "ref1": "Ref.: Jesus mein Alles hier. Er ist mein Herr und Freund.\nDarum gehör ich Jesus, mein herrlicher König und Freund.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Ich war immer so einsam, fern warn Friede und Freud.\nDoch seit Jesus ich kenne, Er den Frieden beut.\nKomm, mein Freund, es ist Jesus, der auf Golgatha starb.\nEr hat ewiges Leben auch für dich bereit.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Du bist friedlos und traurig, das beraubet dein Glück.\nDenk, das Jesus, dein Heiland, nur gibt wahres Glück.\nKomm und bring Ihm noch heute dein beladenes Herz.\nDann wirst du es erfahren: Er nur heilt den Schmerz.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Hörst du Jesum dich rufen, Er will retten dich heut.\nKomm und gib Ihm dein Leben, mache dich bereit.\nDann wirst du Ihn einst sehen, der dich immer geliebt.\nUnd du wirst Ihn dann preisen, weil Er Gnad erwies.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 108,
+    "name": "Nimm mich, Herr (Wenn du dich ganz)",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 109,
+    "name": "Wenn du Jesus kennst (Halt einmal still, sprich mit dem Herrn)",
+    "refrains": {
+      "ref1": "Ref.: Halt einmal still,\nsprich mit dem Herrn,\nruf ihn um Hilfe an, er ist dir nicht fern.\nWenn du Jesus kennst,\nbist du nicht einsam mehr,\ner ist dir nah, immer für dich da.",
+      "ref2": "Ref.: Halt einmal still,\nsprich mit dem Herrn,\nruf ihn um Hilfe an, er ist dir nicht fern.\nWenn du Jesus kennst,\nbist du nicht traurig mehr,\nseiner Freude Glanz erfüllt dich ganz."
+    },
+    "strophen": [
+      { 
+          "text": "1) Wenn du Jesus kennst,\nbist du nicht einsam mehr,\nist dir nah, immer für dich da.\nGeh mit ihm den Weg,\ndenn Jesus hält dich fest,\nbist du allein, wird er bei dir sein.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Wenn du Jesus kennst,\nbist du nicht furchtsam mehr,\ner geht voran, auf der Lebensbahn.\nFühlst du dich bedroht,\nsiehst du nur Dunkelheit,\ner ist dein Licht, drum fürcht' dich nicht.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Wenn du Jesus kennst,\nbist du nicht traurig mehr,\nseiner Freude Glanz erfüllt dich ganz.\nDu bist Gottes Kind,\nweißt um ein Vaterhaus,\nnach der Erdenzeit in der Herrlichkeit.", 
+          "refrain": "ref2" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 110,
+    "name": "Es eilt die Zeit (Komm, eh der letzte Tag versinkt)",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 111,
+    "name": "Ohne Weg, ohne Licht, ohne Hilfe (Seine Güte und Gnade)",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 112,
+    "name": "Höre deinen Heiland, der freundlich spricht",
+    "refrains": {
+      "ref1": "Ref.: O höre deines Jesu sanften Ruf:\n\"Folge mir, folge mir!\",\nund sprich zu deinem Gott,\nder dich erschuf:\n\"Ich komm, Herr, und folge Dir!\"",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Höre deinen Heiland, der freundlich spricht:\n\"Komm mein Kind, folge mir!\"\nLausche Seinen Worten und säume nicht,\nsprich zu Ihm: \"Ich folge Dir!\"", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) In des Herrn Geleit kannst du sicher gehn,\nscheint auch oft rau der Pfad!\nTreulich wird der Herr dir zu Seite stehn,\nhelfen stets mit Rat und Tat!", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Ist die Seele trüb und die Freude fort,\ntrau auf Ihn, tage nicht!\nEr erquickt das Herz mit dem Lebenswort\nund macht deine Pfade licht.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "4) Er beschirmt dich treu, wenn die Feinde drohn,\nbis du dich aufwärts schwingst\nund in weißem Kleide vor Gottes Thron\newig Seinen Ruhm besingst!", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 113,
+    "name": "Komm zu Jesus mit deinen Sünden",
+    "refrains": {
+      "ref1": "Ref.: Gottes Liebe kam zu uns hernieder, offenbarte sich auf Golgatha.\nDort am Kreuzesstamm hing das Gotteslamm für die ganze Welt, halleluja!\nMag die Welt sich fürchten und verzagen, wer an Christus glaubt, bleib fest bestehn,\ndarf im Glauben alles wagen, mag auch alles untergehn.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Komm zu Jesus mit deinen Sünden, komm zu Ihm mit deiner schweren Last.\nDenn bei Ihm nur kannst du Frieden finden von des Lebens ruheloser Rast.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Was dir immer auch die Welt mag geben, nie wirst du damit zufrieden sein.\nDeiner Seele fehlt das wahre Leben und das gibt dir Jesus nur allein.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Eile Jesus heute zu begegnen, nicht mehr lange währt die Gnadenzeit.\nKann in dieser Zeit Er dich nicht segnen, richtet Er dich in der Ewigkeit.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 114,
+    "name": "Was muss ich machen in meinem Leben",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 115,
+    "name": "Wasch rein mein Herz",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 116,
+    "name": "Meines Herzens tiefstes Sehnen",
+    "refrains": {
+      "ref1": "Ref.: Es ist Heil für dich in Jesu Blut und Wunden.\nFrieden findest du am Kreuz von Golgatha,\ndenn auch ich hab dort das wahre Glück gefunden.\nJubelnd preise ich den Herrn, halleluja.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Meines Herzens tiefstes Sehnen und mein Hoffen\nfand Erfüllung, als ich ganz zu Jesus kam.\nDort am Kreuz sah ich den Himmel für mich offen\nund Vergebung in dem teuren Gotteslamm.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Nun hab ich für immer einen Freund gefunden,\ndem ich alles sage, was mich hier bedrückt.\nEr ist bei mir in des Lebens schwersten Stunden.\nSeine Gegenwart hat mich so oft beglückt.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Bald ist diese Gnadenzeit für dich zu Ende,\ndunkel drohend kommt sehr schnell die Mitternacht.\nDu musst heute dich zu Jesus Christus wenden,\nbald erscheint Er in der Luft mit großer Pracht.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 117,
+    "name": "Noch dringt Jesu frohe Botschaft (Jesus Christus, Heiland und Erlöser)",
+    "refrains": {
+      "ref1": "Ref.: Jesus Christus, Heiland und Erlöser,\nstarb für dich, warb um dich, der du abseits stehst.\nLass dein Zagen, lass des Zweifels Fragen,\ndenn dein Weg wird hell, wenn du mit Jesus gehst.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Noch dringt Jesu frohe Botschaft in die dunkle Welt;\nnoch sind allerorten Boten aufgestellt.\nMenschen müssen Menschen sagen, dass Gott alle liebt,\ndass es einen Weg aus Schuld und Elend gibt.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Ehe du geboren wurdest, hat dich Gott erkannt.\nOft hat dir im Herzen schon sein Wort gebrannt.\nHell und Dunkel deines Lebens sind ein Ruf nach Haus,\nund noch immer weichst du seiner Liebe aus.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Heute, wenn sein Wort dich trifft, so halt ihm endlich still;\nbrich mit dem Vergangnen, sprich zu Gott: Ich will!\nUnd das \"mene tekel\"/Todesurteil, das auf deinem Leben stand,\nwird gelöscht von Gottes guter Vaterhand.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 118,
+    "name": "O Herz, sei still und denke",
+    "refrains": {
+      "ref1": "Ref.: O blick nach Golgatha, zum Kreuz auf Golgatha,\nwo Jesus starb am blutgen Kreuzesstamm!\nO blick nach Golgatha, zum Kreuz auf Golgatha,\nwo Er die Sünden von uns allein nahm!",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) O Herz, sei still und denke an den Tag,\nals an dem Kreuz dein Heiland für dich starb,\nals an dem Holz den Fluch Er auf sich nahm\nund ewges Heil für dich und mich erwarb.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) O sieh die Menschen, die am Kreuze stehn.\nAuch du und ich, wir sind dort mitgezählt.\nEs ist um unsre Sündenschuld geschehn,\nda Gottes Sohn am Kreuze ward gequält.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Noch heut, wie einst, stehn viele vor dem Kreuz.\nSie lehnen ab den, der für sie starb.\nDoch öffne du in Liebe Ihm dein Herz,\nnimm an das Heil, das Er dir dort erwarb.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 119,
+    "name": "Christus im Zentrum",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 120,
+    "name": "Es kommt der Tag, wo Christus wiederkommen wird",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 121,
+    "name": "Bist du bereit zu der Stunde",
+    "refrains": {
+      "ref1": "Ref.: Herrlich auf goldenen Straßen, herrlich im Vaterland!\nWunderbar sind Seine Werke, herrlich im weißen Gewand!",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Bist Du bereit zu der Stunde wenn Gott die Seinen heimholt?\nHast du vernommen die Kunde, wie Er die Seinen belohnt,\nwenn Er erscheint in den Wolken in Majestät und in Kraft?\nIch kann's nicht sagen mit Worten, mein Herze, es jubelt und lacht.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Kannst du begreifen die Liebe, die Jesus Christus dir beut?\nBist du mit Ihm dann im Frieden, wenn Jesus käme noch heut?\nEr hat die Stätte bereitet für die schon wartende Schar,\ndie immerfort üben Treue. Es kommt der verheißene Tag.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 122,
+    "name": "Danke bewusst",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 123,
+    "name": "Friede mit euch, Friede mit euch",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 124,
+    "name": "Gib doch das Beste dem Meister",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Gib doch das/dein Beste dem Meister,\ngib ihm der Jugendkraft Glut.\nEile, dich völlig zu weihen,\nihm, der so viel für dich tut.\nWie einst dein Herr und dein Meister\nwirke für Gott ohne Rast.\nGib ihm in heiliger Liebe alles,\nwas immer du hast!", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Gib doch das Beste dem Meister,\nstell ihm in allem voran.\nRäum ihm den Thron ein im Herzen,\nlohn's ihm, was er dir getan.\nGib, und es wird dir gegeben,\ngib es mit freudigem Sinn.\nJesus gab für dich sein Leben:\ngib nun dein alles ihm hin.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Gib doch das Beste dem Meister,\nhab doch von Herzen ihn lieb.\nGab er sich einst doch zum Opfer,\nweil seine Liebe ihn trieb.\nGab sich in heilgem Gehorsam.\nRetten, das war ja sein Plan.\nGib daher Jesus das Beste;\ndenk doch was er einst getan!", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 125,
+    "name": "Es gibt ein Licht in dieser dunklen Welt",
+    "refrains": {
+      "ref1": "Ref.: Herr, gib mir etwas von Deiner Liebe,\ndamit ich liebend leben kann,\nund rege mächtig des Herzens Triebe\nzu neuem Lieben täglich an.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Es gibt ein Licht in dieser dunklen Welt,\nvor dem die schwersten Wolken fliehen.\nUnd ist dein Pfad von diesem Licht erhellt,\ndann kannst du fröhlich deine Straße ziehen.\nEs scheint viel heller als der Morgenstern,\ndas ist die Liebe unsers Herrn!", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Sie gibt Geborgenheit in dieser Welt,\nsie nimmt uns jede Angst und Sorge.\nOb alles um uns wankt, zerbricht und fällt,\ndie bleibt uns treu, wie heute, so auch morgen!\nSo ist die Liebe des durchbohrten Herrn,\nsie ist auch dir, mein Freund, nicht fern!", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) \"Hast du mich lieb?\", fragt Jesus heute dich.\n\"Gib Mir dein Herz, dein ganzes Leben.\nDu wirst es sehn: Ich lass dich nicht im Stich,\nIch will dich bis ins Alter tragen, heben!\nSieh her, die Liebe trieb Mich in den Tod,\ndies ist für dich Mein Angebot!\"", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 126,
+    "name": "Ist dein Leben ein Segen für andre?",
+    "refrains": {
+      "ref1": "Ref.: Mach mich zum Segen für andere heut,\nmach mich zum Segen zu jeglicher Zeit!\nNimm hin mein Leben; Dir ganz ergeben,\nmach mich zum Segen für andere heut!",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Ist dein Leben ein Segen für andre?\nStrahlst du göttliche Liebe hinaus?\nKündest Sündern du Heil und Erlösung?\nFührst Verlorene heim du nach Haus?", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Ist dein Leben ein Segen für andre?\nHilfst du anderen leichtern die Last?\nHast du Balsam für blutende Herzen?\nZeigst du Müden die Stätte der Rast?", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Ist dein Leben ein Segen für andre?\nBist du täglich und stündlich bereit,\nden Geringsten und Ärmsten zu dienen?\nBist ein Segen für andre du heut?", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "4) O, wir werden nicht andern zum Segen,\nwenn die Sünde noch Raum in uns hat;\nsei dem Herrn darum völlig ergeben,\nso gebraucht dich die göttliche Gnad.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 127,
+    "name": "Jetzt, wo noch im Jugendlenze",
+    "refrains": {
+      "ref1": "Ref.: Für die Sache unsers Meisters\nlasst uns wirken früh und spät,\ndass nicht eh das Werk vollendet,\nunsere Sonne untergeht!",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Jetzt, wo noch im Jugendlenze\nalles uns umher erfreut,\nlasst ein jedes Herze sein,\ndem Dienst des Herrn geweiht.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Lieben wir den Namen Jesus,\nlasst's uns zeigen durch die Tat;\nlasst uns wohltun und mitteilen\nund so folgen Seinen Rat!", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Schmerzen lindern, Seelen retten,\nZeit und Kraft dem Herren weihn,\ndas lasst ernstlich uns versuchen,\nsind wir auch noch schwach und klein!", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 128,
+    "name": "Komm, hilf dem Bruder in dem Tale",
+    "refrains": {
+      "ref1": "Ref.: Komm, hilf dem Bruder in dem Tale, nimm dich seiner freundlich an.\nBald wird dir der Meister sagen: \"Das hast du an mir getan.\"",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Bruder, darfst du mich ergötzen an der Liebe deines Herrn?\nWandelst du im Land der Wonne von den Erdensorgen fern?", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Weißt du nicht, dass manche wandeln mühsam ihre Pilgerbahn?\nReiche deine Hand dem Bruder, helfe ihm den Berg hinan.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Auf dem Berge der Verklärung mögen wir wohl gerne ruhn.\nAber unten ist viel Arbeit, Arbeit für den Herrn zu tun.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 129,
+    "name": "Heiland, kannst du mich gebrauchen",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 130,
+    "name": "Wenn dich dein Bruder betrübet hat",
+    "refrains": {
+      "ref1": "Ref.: Jesus vergab dir all deine Schuld. Er ist voll Sanftmut und voll Geduld.\nGenauso wie Jesus musst du sein, in Liebe dem Nächsten alles verzeihn.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Wenn dich dein Bruder betrübet hat, rechne ihm dieses nicht zu.\nJede gefälschte und lieblose Tat, alles vergeben musst du.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Wenn dich dein Freund in der schwersten Zeit einsam verließ in der Not,\nkannst du vergeben und bist du bereit, ihm treu zu sein bis zum Tod.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Und wenn dein Nachbar zu streiten sucht, wenn er nicht liebevoll ist,\nwenn er dir immer nur Böses tut, zeige, dass du bist ein Christ.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "4) Wenn von den Menschen dich jemand hasst, wenn er dich nie lässt in Ruh,\nwenn er sogar nach dem Leben fasst, rechne auch dies ihm nicht zu.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 131,
+    "name": "Bittende Herzen (Ströme des Segens erwarten wir von Dir)",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 132,
+    "name": "Lasst uns den Frühling des Lebens",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Lasst uns den Frühling des Lebens und unsre Kräfte dem Heiland weihn!\nSiehe, es ist nicht vergebens, groß wird der Lohn einmal sein.\nWas kann's noch Schöneres geben, als wenn wir dienen dem Herrn\nund unser blühendes Leben schenken Ihm willig und gern?", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Hörst du dem Herrn dringend rufen: \"Wer will noch heute Mein Diener sein?\"\nLass Ihn nicht länger noch warten, Er lädt so freundlich ein.\nLasst uns mit brennender Liebe folgen dem Herrn, allezeit,\nund unsre innigen Triebe seien dem Heiland geweiht!", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Hoch hebt empor Jesu Fahne, ziehet getrost in den heil'gen Streit!\nSehet, die Sünde ist mächtig, seid stets zum Kampfe bereit!\nSollt uns Verfolgung begegnen, wird es für viele auch schwer,\nuns wird der Ewige segnen, wir sind das siegende Heer!", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 133,
+    "name": "Weil Jesus lebt, will ich Ihn wirken lassen",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 134,
+    "name": "Mit Jesus leben, das ist Freude",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 135,
+    "name": "Wie ein Vöglein will ich singen voller Freude",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 136,
+    "name": "Wohl dem, der nicht wandelt (Psalm 1)",
+    "refrains": {
+      "ref1": "Ref.: Der ist wie ein Baum,\ngepflanzt an den Wasserbächen,\nder ist wie ein Baum,\ngepflanzt an den Wasserbächen,\nder seine Frucht bringt\nzu seiner Zeit,\nund seine Blätter verwelken nicht.\nDer seine Frucht bringt\nzu seiner Zeit,\nund seine Blätter verwelken nicht.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Wohl dem, der nicht wandelt,\nwohl dem, der nicht wandelt\nim Rat der Gottlosen.\nWohl dem, der nicht wandelt,\nwohl dem, der nicht wandelt\nim Rat der Gottlosen.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Wohl dem, der da Lust hat,\nwohl dem der da Lust hat\nan dem Gesetz des Herrn.\nWohl dem, der da Lust hat,\nwohl dem der da Lust hat\nan dem Gesetz des Herrn.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 137,
+    "name": "Alles will ich Jesus weihen (Alles geb ich dir)",
+    "refrains": {
+      "ref1": "Ref.: Alles will ich weihn,\nalles will ich weihn,\ndir, mein Herr, mein Gott, mein Heiland,\nwill ich alles weihn.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Alles will ich Jesu weihen,\nnichts mehr will ich nennen mein.\nLeib uns Seele, Gut und Habe:\nAlles soll sein eigen sein.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Alles will ich Jesu weihen,\nall mein Herz zu ihm sich neigt,\nall mein eigner, stolzer Wille\nsich dem Herrn gehorsam beugt.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Alles will ich Jesu weihen,\nhalte alle Welt für Spreu.\nDoch was ich dem Heiland schenke,\ngibt er mir verklärt und neu", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "4) Alles will ich Jesu weihen:\nmeines Geistes beste Kraft.\nAll mein Denken, all mein Streben,\nalles, was mein Tagwerk schafft.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 138,
+    "name": "Der Dienst für den Heiland",
+    "refrains": {
+      "ref1": "Ref.: Es lohnt sich der Dienst für den Herrn.\nEs lohnt sich zu dienen dem Herrn allezeit,\nEr lohnt jeden Schritt, den wir gehn.\nScheint der Weg auch zum Himmel beschwerlich und weit,\nEr wird helfend zur Seite dir stehn.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Der Dienst für den Heiland befriedigt das Herz,\nda findest du Freud, die himmlische Freud.\nIhm kindlich zu trauen in Wonne und Schmerz.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Es lohnt sich, ein Diener des Heilands zu sein,\nes lohnt sich die Treu, was immer es sei.\nDer Reichtum der Gnade macht selig allein.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Ob düstere Wolken verdunkeln den Pfad,\nobgleich auch die Not die Seele bedroht,\nder köstliche Heiland lohnt jegliche Tat.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 139,
+    "name": "Mach mich zum Diener wie du",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 140,
+    "name": "Ein jeder trage die Last des andern",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 141,
+    "name": "Ich bin ein Bote hier",
+    "refrains": {
+      "ref1": "Ref.: Dies ist die Botschaft, die ich bring!\nDie Botschaft achtet nicht gering:\nO lasst versöhnen euch!\nMein Herr spricht gnadenreich:\nO lasst versöhnen euch mit Gott!",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Ich bin ein Bote hier in einem fremden Land.\nMein Heim ist weit entfernt an jedem goldnen Strand.\nMein König sendet mich,\nund deshalb komme ich\nzu euch im Auftrag meines Herrn.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Des Königs Wille ist, dass jedes Menschenkind\nsich zu Ihm kehren möcht mit Abscheu vor der Sünd.\nWer folgen will sofort,\nsoll mit Ihm herrschen dort!\nDas ist der Auftrag meines Herrn.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) In meines Königs Reich sind keine Tränen mehr;\nkein Scheiden machet dort das arme Herz euch schwer.\nIhr sollt von Sünde rein,\nim Himmel selig sein!\nDas ist der Auftrag meines Herrn.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 142,
+    "name": "Ich will folgen, Jesus, dir von Tag zu Tag",
+    "refrains": {
+      "ref1": "Ref.: Herr, ich steh zu deinem Dienst bereit,\nalle Kräfte hab ich dir geweiht,\nja dir, in Zeit und alle Ewigkeit,\nwill ich dir dienen, Herr, allein!",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Ich will folgen, Jesus, dir von Tag zu Tag,\ndir nur dienen will ich, Herr.\nOb ich hin und wieder auch ermüden mag,\ndir nur dienen will ich, Herr!", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Lass mich nie vergeuden deine goldne Stund,\ndienend dir, nur dir, mein Herr,\nstets gewärtig des Befehls aus deinem Mund,\nlebend dir, nur dir, mein Herr!", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Dein im Dienste, bis mein letztes Stündlein schlägt,\nwenn dein Wink mir Ruh gebeut,\ndir zu dienen dann mit einem bessren Dienst,\ndort in ewger Seligkeit!", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 143,
+    "name": "Leuchtend strahlt des Vaters Gnade (Lasst die Küstenfeuer brennen)",
+    "refrains": {
+      "ref1": "Ref.: Lasst die Küstenfeuer brennen, lass sie leuchten weit hinaus,\ndenn sie zeigen manchem Schiffer sicherlich den Weg nach Haus.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Leuchtend strahlt des Vaters Gnade aus dem ober'n Heimatland,\ndoch uns hat er anvertrauet Rettungslichter längs dem Strand.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Unser Weg war fern vom Lichte, unser Herz in Schuld und Qual,\ndoch aus Jesu Angesichte leuchtete der Liebe Strahl.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Dunkel ist die Nacht der Sünde, schaurig klingt der Wogen Lied,\nmanches Auge sucht voll Sehnsucht, ob's am Strande Lichter sieht.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "4) Jesus hat uns ausgesendet, wie der Vater ihn gesandt.\nDass die Liebe Gottes strahle, da wo man ihn nicht gekannt.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "5) Lass dein Licht doch nicht verlöschen, sonst vielleicht zu dieser Stund,\nweil es nicht den Hafen findet, sinkt ein Schifflein auf den Grund.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 144,
+    "name": "Seit nach Gottes Reich ich trachte",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 145,
+    "name": "Was will der Herr, wenn ich sein eigen bin",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 146,
+    "name": "Nimm du mich ganz hin, o Gottessohn",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Nimm du mich ganz hin, o Gottessohn.\nDu bist der Töpfer, ich bin der Ton.\nMach aus mir etwas nach deinem Sinn,\nwährend ich harre, nimm mich ganz hin.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Nimm du mich ganz hin, o Gottessohn,\nprüfe, erforsch mich am Gnadenthron.\nWeißer denn Schnee, Herr, wasche mich rein,\ndass ich dein Eigen immer mag sein.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Nimm du mich ganz hin, o Gottessohn.\nMit deinem Geiste jetzt in mir wohn.\nSei mir im Herzen König allein,\nlass alle sehen, dass ich ganz dein.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 147,
+    "name": "Nimm mein Leben, Jesu, dir",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Nimm mein Leben, Jesus, dir\nübergeb ich's für und für.\nNimm Besitz von meiner Zeit;\njede Stund sei dir geweiht.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Nimm du meine Hände an,\nzeig mir, wie ich dienen kann;\nnimm die Füße, mach sie flink,\ndir zu folgen auf den Wink.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Nimm die Stimme, lehre mich\nreden, singen nur für dich;\nnimm, o Herr, die Lippen mein,\nlege deine Worte drein.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "4) Nimm mein Gold und Silber hin,\nlehr mich tun nach deinem Sinn;\nnimm die Kräfte, den Verstand\nganz in deine Meisterhand.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "5) Nimm, Herr, meinen Willen du,\ndass er still in deinem ruh;\nnimm mein Herz, mach hier es schon\ndir zum Tempel und zum Thron.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "6) Nimm du meiner Liebe Füll;\nJesus, all mein Sehnen still;\nnimm mich selbst und lass mich sein\newig, einzig, völlig dein.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 148,
+    "name": "Viele Wege gibt es auf dieser Welt (Weise mir, Herr, deinen Weg)",
+    "refrains": {
+      "ref1": "Ref.: Weise mir, Herr, deinen Weg, dass ich wandle in deiner Wahrheit.\nLass mich’s erkennen, o Herr, und bekennen, dass du nie einen Fehler machst!\nWeise mir, Herr, deinen Weg, dass ich wandle in deiner Wahrheit;\nund all meine Sinnen und alles Beginnen möcht ich, dass du Herr, überwachst.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Viele Wege gibt es auf dieser Welt, doch einen nur können wir gehn!\nUnd die Frage, die sich mir dadurch stellt ist, welchen Weg ich nehm.\nSoll ich den Weg gehen, der mir gefällt? Such ich einen, der mir recht bequem?\nDoch nicht was ich denke und wünsche zählt. Wie er führt will ich gehn.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Manche Frage stellt sich im Leben mir, doch fehlt oft die Antwort dazu,\nund ich frage Freunde, frag dort und hier und forsche ohne Ruh!\nEs bleibt vieles was keine Antwort hat, bleibt vieles was rätselhaft ist!\nDarum frag ich Gott, meinen Herrn, um Rat im Namen Jesu Christ.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Lasst uns immer handeln nach Jesu Sinn, so wie es die Bibel uns sagt.\nUnser Weg führt dann nur zum Himmel hin, wenn man nach Jesus fragt.\nÜberall soll er unser Hirte sein. Ganz gleich, ob man über uns lacht.\nWenn er bei uns ist, sind wir nie allein, am Tag und in der Nacht.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 149,
+    "name": "Wie der Töpfer nimmt den Ton (Lass mich immer stille halten)",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 150,
+    "name": "Zu dir, Herr, will ich mich wenden",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 151,
+    "name": "Näher zu Dir",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Näher zu Dir! O kein Glück ist so groß\nund lieblicher ist mir auf Erden kein Los.\nOb irdische Freude mein Herz hier durchglüht,\nnach Dir, o Herr Jesu, mich mächtger noch zieht.\nOb irdische Freude mein Herz hier durchglüht,\nnach Dir, o Herr Jesu, mich mächtiger noch zieht.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Näher zu Dir! Zieh mich Herr an Dein Herz.\nIn Dir hab ich Ruhe in Freude und Schmerz.\nIn Dir bin ich glücklich und selig und reich.\nIn Dir hab ich alles, ein ganz Himmelreich.\nIn Dir bin ich glücklich und selig und reich.\nIn Dir hab ich alles, ein ganz Himmelreich.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 152,
+    "name": "O ich wünsche nur Dich, meinen Heiland",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 153,
+    "name": "Wie ein Hirsch lechzt nach frischem Wasser",
+    "refrains": {
+      "ref1": "Ref.: Du allein bist mir Kraft und Schild,\nvon Dir allein sei mein Geist erfüllt.\nAus der Tiefe meines Herzensbete ich Dich an, o Herr.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Wie ein Hirsch lechzt nach frischem Wasser,\nso sehn’ ich mich Herrn nach Dir.\nAus der Tiefe meines Herzens\nbete ich Dich an, o Herr.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Du, o Herr, bist mir Freund und Bruder,\nDu mein König und mein Gott!\nDich begehre ich mehr als alles,\nso viel mehr als höchstes Gut.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Was bedeuten mir Gold und Silber.\nHerr nur du kannst Erfüllung sein.\nDu allein bist der Freudengeber,\nwurdest mir zum hellen Schein.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 154,
+    "name": "Auferstanden aus des Grabes Nacht (Und wir werden mit Ihm leben)",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 155,
+    "name": "Dort in dem Garten Gethsemane (Jesus ist Sieger über den Tod)",
+    "refrains": {
+      "ref1": "Ref.: Jesus ist Sieger über den Tod!\nJesus ist Sieger, bricht alle Not.\nJesus ist Sieger in Ewigkeit,\nfür dich hat Jesus den Sieg schon bereit!",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Dort in dem Garten Gethsemane\nrang unser Jesus voll Leid und Weh.\nBlutstropfen fielen, der Kampf war schwer,\ndie Jünger schliefen, allein war der Herr!", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Sein Kreuz trug Jesus nach Golgatha;\num dich zu retten, litt er allda.\nUnd stehst du heute in dunkler Nacht,\nhör', Jesus rufet: Es ist schon vollbracht!", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Weißt du, was heute noch Wunder tut?\nNur unsres Heilands kostbares Blut.\nAuch wenn die Hölle und Erde bebt,\nglaub diese Botschaft: Dein Jesus, er lebt!", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "4) Und kommt noch heute der Tod heran,\nkannst du es glauben, was er getan?\nJesus, dein Heiland, er liebt dich noch,\nkomm, fasse Mut nun und glaube es doch!", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 156,
+    "name": "Jesus ist der Sieger",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Jesus ist der Sieger über Leben und Tod.\nDrücken dich auch nieder, sage Jesus deine Not.\nEr will dir immer helfen, wenn alles auch bebt,\ndenn der Herr ist auferstanden, ist Sieger und lebt,\ndenn der Herr ist auferstanden, ist Sieger und lebt.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Du kannst überwinden, wenn der Feind dich auch anficht.\nIn ihm Ruhe kannst du finden, wenn dir auch das Herze bricht.\nJa, Jesus will dir helfen, wenn alles auch bebt,\ndenn der Herr ist auferstanden, ist Sieger und lebt,\ndenn der Herr ist auferstanden, ist Sieger und lebt.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Christus ist das Leben, das dich führt zum Glücklichsein,\ndenn Er will dir alles geben, o vertraue Ihm allein.\nJa, Jesus will dir helfen, wenn alles auch bebt,\ndenn der Herr ist auferstanden, ist Sieger und lebt,\ndenn der Herr ist auferstanden, ist Sieger und lebt.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 157,
+    "name": "Herrlichkeit (Alles geht einmal vorüber)",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 158,
+    "name": "Auf dieser Welt gibt es viele Straßen",
+    "refrains": {
+      "ref1": "Ref.: Weit über'm Sternenzelt, ja weit entfernt der Welt,\ndort ist ein herrlich' Land, ist es dir bekannt?\nWeit über'm Sternenzelt ist die bessre Welt,\ndort ist mein Heimatland, das mein Glaube hat erkannt.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Auf dieser Welt gibt es viele Straßen,\nund jede Straße, die hat ein Ziel.\nDoch diese Welt muss ein jeder verlassen,\nund \"Wohin geht es?\" so fragen sich viel'.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Auf dieser Welt gibt es viele Wege,\ndoch nur ein einz'ger führt himmelan.\nJa, dieser Weg geht nach Golgathas Hügel.\nGehst du vorbei, mein Freund, was dann?", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Auf dieser Welt schlägt so manche Stunde,\nund eine Stunde schlägt auch für dich.\nHast du gehört von der herrlichen Kunde?\nEin Heim erwartet dich ewiglich!", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 159,
+    "name": "Bist du auf Erden gar oft allein",
+    "refrains": {
+      "ref1": "Ref.: Denk an die Heimat, die schöne Heimat,\ndie Heimat droben im Himmelslicht!\nO, lass dein Zagen und all dein Klagen!\nDenk an die Heimat! Vergiss sie nicht!",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Bist du auf Erden gar oft allein\nund will dein Herze auch traurig sein,\ndann blick nach oben zum Himmelszelt.\nDort ist die Heimat, die bessre Welt.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Und will dir sinken im Kampf der Mut\nund fehlt dem Herzen des Feuers Glut.\nDer Blick nach oben erquickt das Herz!\nLenk die Gedanken doch himmelwärts!", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Und nicht mehr lange, dann geht es heim.\nWir werden ewig bei Jesus sein!\nDort sind nicht Sorgen, nicht Leid noch Pein.\nJa, diese Heimat, sie wartet dein.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 160,
+    "name": "Eine Stadt im Himmel",
+    "refrains": {
+      "ref1": "Ref.: Du ewiges Licht, des Heils Zuversicht, Jerusalem,\nwo Jesus nur scheint, und niemand mehr weint, Jerusalem.\nDu goldene Stadt voll Liebe und Gnad, Jerusalem!\nIn dir möcht ich sein, den Heiland dort sehn, Jerusalem.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Eine Stadt im Himmel, von Gottes Glanz umgeben,\ndie kein Leid und Trübsal kennt in ihrem Leben,\nwo die Heil’gen wohnen, Harfen fröhlich klingen,\nund sie Jesus preisen, Lob und Ehr Ihm bringen.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) O, Jerusalem, du Stadt der goldnen Gassen,\nwo man ewig glücklich, Herr, ich kann’s nicht fassen!\nLehre Du mich wandeln Dir zu Ehr hienieden,\ndass die Seele droben Ruhe find't und Frieden.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) O, welch eine Freude, bald kommt Jesus wieder\nund wir werden preisen Ihn mit frohen Liedern!\nLasst uns Ihn gemeinsam loben hier auf Erden,\ndass wir in Jerusalem Bürger können werden!", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 161,
+    "name": "Es gibt eine Heimat (Ich werde kein Fremdling dort sein)",
+    "refrains": {
+      "ref1": "Ref.: O nein, denn ich kenne den Heiland so gut,\ner ist ja auf Erden schon mein.\nUnd geh in den Himmel ich ein durch sein Blut,\nso werd ich kein Fremdling dort sein.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Es gibt eine Heimat im himmlischen Licht,\nbereitet vom Heilande mein.\nUnd wenn er mich rufet, so weiß ich gewiss:\nIch werde kein Fremdling dort sein!", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Ich weiß, ob auch Menschen mich selten verstehn,\nob Freunde mich lassen allein,\nwenn meinen Erlöser ich droben werd sehn,\nso werd ich kein Fremdling dort sein.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Dort sind meine Lieben am goldnen Strand,\numflossen von himmlischem Schein.\nMit ihnen dort wandle auch ich Hand in Hand:\nIch werde kein Fremdling dort sein.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "4) O Fremdling, beim Heilande findest du Ruh,\ner wäschet von Sünden dich rein!\nKomm heute zu ihm, und dann singest auch du:\nIch werde kein Fremdling dort sein.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 162,
+    "name": "Im Himmel gibt es manches",
+    "refrains": {
+      "ref1": "Ref.: Der Erste, den ich seh, soll Jesus sein,\nund dann wird alles andre mich erfreun.\nAnbetend werd ich stehn vor dem, der alles gibt.\nIch sehe dann den Heiland, der mich liebt.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Im Himmel gibt es manches, was ich gerne möchte sehn.\nAn Schönheit wird mein Herz sich dann erfreun.\nUnd wenn ich einst in Ewigkeit zum Himmel werd eingehn:\nDer Erste, den ich seh, soll Jesus sein.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Ich sehe einst das Perlentor, es strahlt so hell und klar.\nIch sehe einst das wunderschöne Heim.\nIch sehe einst den weißen Thron und auch die Engelschar:\nDer Erste, den ich seh, soll Jesus sein.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Ich sehe einst die Lieben dort in jenem Himmelsland\nUnd viele, die mit mir dann ziehen heim.\nSo mancher wartet dort auf mich an jenem goldnen Strand:\nDer Erste, den ich seh, soll Jesus sein.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 163,
+    "name": "Schau ich zurück",
+    "refrains": {
+      "ref1": "Ref.: Wenn Jesus kommt wird mir die Sonne scheinen.\nKeine Nacht, kein Tod wird dort mehr sein.\nWenn Jesus kommt ist Freude bei den Seinen.\nBald sind wir dort bei Ihm allein.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Schau ich zurück, wie hat mich Gott getragen.\nAuf jedem Weg begleitete er mich.\nEr sorgte treu in allen Lebenslagen.\nUnd meine Schuld warf er weit hinter sich.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Schau ich zurück, ich wollte oft verzagen.\nIch hatte Angst, die Zukunft drückte mich.\nDoch Er versprach, mich sicher durchzutragen.\nBis an das Ziel. Mein Gott verlässt mich nicht.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 164,
+    "name": "Du bist des Lebens wahre Quelle",
+    "refrains": {
+      "ref1": "Ref.: Gott, lass mich immer Heimweh haben,\nwenn ich nicht nahe bei dir bin!\nJa, lass mich immer Heimweh haben,\nwenn ich nicht nahe bei dir bin!",
+      "ref2": "Ref.: Ja, du sollst immer Heimweh haben,\nwenn ich nicht nahe bei dir bin!\nJa, du sollst immer Heimweh haben,\nwenn ich nicht nahe bei dir bin!"
+    },
+    "strophen": [
+      { 
+          "text": "1) Du bist des Lebens wahre Quelle,\nsprichst du ein Wort, so wird es licht;\nbist du mein Führer hier auf Erden,\ngeh ich getrost und irre nicht.\nDoch ohne dich, geliebter Heiland,\nbrächt' mir das Schönste kein' Gewinn.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Ging ich auf vielbewegten Straßen,\nhätt' liebe Menschen um mich her,\nsie könnten dich, Herr, nicht ersetzen,\nes bliebe doch im Herzen leer.\nEs hätte ohne dich, mein Leben\nim tiefsten Grunde keinen Sinn.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Und hätt' ich alles, was ich wünschte,\nund schien mein Leben voller Glück\nund käm Versuchung gar, käm Leiden,\nzu wem erhöb ich dann den Blick?\nWo eilt' mit meinen tiefsten Schmerzen,\nmit der verborgnen Not ich hin?", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "4) So will ich gehn an deiner Seite,\nverbunden deinem Kreuzpanier,\ndurch lichte und durch trübe Tage,\nHerr Jesu, ich gehöre dir!\nUnd leise klingt's in meinem Herzen\nund lenkt den Blick zur Heimat hin:", 
+          "refrain": "ref2" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 165,
+    "name": "Bald werden wir Ihn sehen (Das Leben fordert mich)",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 166,
+    "name": "Wenn mein Wandel endet",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 167,
+    "name": "Man erzählte mir froh von dem Himmel",
+    "refrains": {
+      "ref1": "Ref.: Halleluja! Ganz laut will ich singen;\nja ich bin auf dem Wege zum Himmel.\nUnd in mir ist ein fröhliches Klingen,\ndenn ich weiß, bald, ja, bald bin ich da.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Man erzählte mir froh von dem Himmel,\nvon der herrlichen Stadt hoch dort droben;\nwo Erlöste dann singen und loben,\nund einmal, bald einmal bin ich da.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Und ich hört von der Stadt ohne Sorgen,\nohne Leiden und Not, ohne Tränen.\nJa, dorthin geht ein fröhliches Sehnen,\nund einmal, bald einmal bin ich da.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Weißt du auch von dem Ort voller Freude?\nKennst du den, der erlöset von Leiden?\nKennst du den, der im Elend dich sah?\nSingst auch du: \"Bald einmal bin ich da!\"?", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 168,
+    "name": "Einst strahlt ewiges Licht",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 169,
+    "name": "Bald erscheint jener Tag",
+    "refrains": {
+      "ref1": "Ref.: welch ein Tag, glorreicher Tag wird das sein!\nJa, wird das sein! Welch ein Tag wird das sein,\nwenn einst Jesus mich führt heim!\nMeinen Heiland dann ich seh,\nder aus Gnaden mich ersehn!\nUns Er nimmt mich an der Hand,\nführt mich ins verheißne Land!\nWelch ein Tag, glorreicher Tag wird das sein!\nJa, wird das sein!",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Bald erscheint jener Tag, wo kein Herzeleid wird sein,\nkeine Trübsal und Not, keine Träne, Angst und Tod.\nFriede herrscht in jenem Land, keine Sünde ist bekannt,", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Keine Sorgen sind dort, Fried und Freud erfüllt den Ort!\nKeine Krankheit, noch Leid, dort man jauchzet allezeit!\nUnd für immer darf ich sein mit dem Heiland dort vereint.\nWelch ein Tag, glorreicher Tag, wird das sein!", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Bald erscheint jener Tag, da der Herr der Herrlichkeit\nkommt zurück auf unsre Erd, dass sein Reich gegründet werd.\nAlle, die ihm treu gedient, werden dort mit Ehr gekrönt.\nWelch ein Tag, glorreicher Tag, wird das sein!", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 170,
+    "name": "Wenn des Herrn Posaune einst erschallt",
+    "refrains": {
+      "ref1": "Ref.: Wenn der Herr die Namen rufet,\nwenn der Herr die Namen rufet,\nwenn der Herr die Namen rufet,\ndurch die Gnade meines Heilands bin ich dort!",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Wenn des Herrn Posaune einst erschallt,\ndie Zeit vorbei wird sein\nund der ew'ge Morgen anbricht hell und rot,\nwenn die Seligen sich finden\nan dem Himmelsstrande ein\nund die Stammroll wird verlesen, bin ich dort.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Dort an jenem klaren Morgen,\nwenn die Sel'gen auferstehn,\nChristi Herrlichkeit zu schauen immerfort,\nwenn die Auserwählten schwingen\nsich empor, um Gott zu sehn\nund die Stammroll wird verlesen, bin ich dort.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) O lasst uns für Jesus wirken\nfrüh am Morgen bis zur Nacht,\nseine Lieb verkünden stets in Tat und Wort,\ndann, wenn diese Zeit vorüber,\nunsre Arbeit ganz vollbracht\nund die Stammroll wird verlesen, bin ich dort.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 171,
+    "name": "Herr, weil mich festhält deine starke Hand",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Herr, weil mich festhält deine starke Hand, vertrau ich still.\nWeil du voll Liebe, dich zu mir gewandt, vertrau ich still.\nDu machst mich stark, du gibst mir frohen Mut,\nich preise dich, dein Wille, Herr, ist gut.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Herr, weil ich weiß, dass du mein Retter bist, vertrau ich still.\nWeil du für mich das Lamm geworden bist, vertrau ich still.\nWeil ich durch dich dem Tod entrissen ward,\npräg tief in mich, Herr, deine Lammesart.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Herr, weil du jetzt für mich beim Vater flehst, vertrau ich still.\nWeil du zu meiner Rechten helfend stehst, vertrau ich still.\nDroht mir der Feind, so schau ich hin auf dich,\nein Bergungsort bist du, o Herr, für mich.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "4) Ist auch die Zukunft meinem Blick verhüllt, vertrau ich still.\nSeitdem ich weiß, dass sich dein Plan erfüllt, vertrau ich still.\nSeh’ ich nicht mehr als nur den nächsten Schritt,\nmir ist's genug! Mein Herr geht selber mit.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 172,
+    "name": "Wie süßer Lieder Reim",
+    "refrains": {
+      "ref1": "",
+      "ref2": ""
+    },
+    "strophen": [
+      { 
+          "text": "1) Wie süßer Lieder Reim\ntönt's an mein lauschend Ohr.\nDu bist heut näher heim,\no Herz, als je zuvor.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Näher dem Siegeslohn,\nder Heimat licht und hehr,\nnäher dem weißen Thron\nund dem kristallnen Meer.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Herr, bis der Tag entweicht\nverleih mir Ernst und Fleiß!\nDie Heimat ist vielleicht\nmir näher als ich weiß.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 173,
+    "name": "O Jesus, ich wär so gern heilig und rein",
+    "refrains": {
+      "ref1": "Ref.: Weißer als Schnee, ja weißer als Schnee;\no, wasch mich im Blute jetzt weißer als Schnee!",
+      "ref2": "Ref.: Ja, weißer als Schnee, ja, weißer als Schnee,\no Jesus, Dein Blut macht ja weißer als Schnee!"
+    },
+    "strophen": [
+      { 
+          "text": "1) O Jesus, ich wär so gern heilig und rein;\nach wohntest und throntest Du in mir allein!\nZerbrich jeden Götzen und ende mein Weh!\nO, wasch mich im Blute jetzt weißer als Schnee!", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) O Jesus, lass nichts von Unheil'gem zurück!\nVollführe Dein Werk und vollende mein Glück,\ndass ich Dich verklärt in mir finde und seh.\nO, wasch mich im Blute jetzt weißer als Schnee!", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) O Jesus, ich bring Dir als Opfer und Gab\nmein alles, was irgend ich bin oder hab.\nAch komm, mich zu segnen aus himmlischer Höh,\nund wasch mich im Blute jetzt weißer als Schnee!", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "4) O Jesus, ich warte voll Sehnsucht auf Dich;\nkomm eilend, erneure und heilige mich!\nDu willst nicht, dass eines getäuscht von Dir geh,\ndrum wasch mich im Blute jetzt weißer als Schnee!", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "5) O Jesus, ich fass Dich im Glauben beim Wort!\n\"Sei rein\", sprichst Du deutlich zu mir, o mein Hort!\nMein Herz ist so stille und klar wie die See;\ngewaschen im Blute, ist's weißer als Schnee.", 
+          "refrain": "ref2" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 174,
+    "name": "Weißt du um Menschen",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 175,
+    "name": "Wie schnell vergeht die Zeit",
+    "refrains": {
+      "ref1": "Ref.: Jesus, Er ruft dich, komm in seine Arme.\nJesus, Er ruft dich, komm, o komm zu Ihm.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Wie schnell vergeht die Zeit, Freund, denk daran.\nBald kommt die Ewigkeit, wo man nichts mehr kann.\nWas nützt dir dann die Welt, Reichtum, Ehr und Geld.\nDein ganzes Leben ohne Gott ist dann verfehlt.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Sieh doch dein Leben an, wie du gelebt,\nund dann erkenne dran, was davon besteht.\nWenn du nicht Jesus hast, wird dein ganzes Tun,\neinst für die Ewigkeit in Staub und Asche ruhn.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Jetzt reicht dir Jesus noch liebreich die Hand,\neile und komme doch mit ins Vaterland.\nWo’s keine Sünd’ mehr gibt, auch kein Schmerz und Leid.\nO mache dich bereit, denn es ist hohe Zeit.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 176,
+    "name": "O Jesus, mein Heiland, nah Dich zu mir",
+    "refrains": {
+      "ref1": "Ref.: Näher zu Dir, Herr, näher zu Dir,\nhilf mir zu tun, das was Dir nur gefällt.\nWas auch die anderen sagen und tun,\nich möchte nur näher zu Dir.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) O Jesus, mein Heiland, nah Dich zu mir\nund höre doch jetzt auf mein Flehn,\nich beuge in Demut vor Dir meine Knie,\nund bitte Dich bei mir zu stehn.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) O Jesus, mein Heiland, ich bin nun Dein,\nich will Dir mein Leben nun weihn,\nso mach aus mir etwas ganz nach deinem Sinn,\nich leb ja für Dich nur allein.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Und wenn ich vom Feinde werde bedroht,\no hilf mir dann feste zu stehn,\nwenn schwach auch die Stimme zu Dir steig empor,\nach höre doch stets auf mein Flehn.", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 177,
+    "name": "Lasten, sie fallen auf Golgatha (Ist dein Herz voll Sorgen und Schmerz)",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 178,
+    "name": "Herr, nimm auch diesen Tag in deine Hand",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": " ", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": " ", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 179,
+    "name": "Möchtest du los sein vom Banne der Sünd (Es ist Kraft, Kraft, wunderbare Kraft)",
+    "refrains": {
+      "ref1": "Ref.: Es ist Kraft, Kraft,\nwunderbare Kraft in dem Blut,\nin dem Blut, es ist Kraft, Kraft,\nÜberwinderkraft in dem Blut\ndes Heilands allein.",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Möchtest du los sein vom Banne der Sünd'?\n's ist Kraft in dem Blut, Kraft in dem Blut!\nKomm, deine Seele den Frieden gewinnt,\ndenn Reinigungskraft hat das Blut!", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Möchtest du frei von der Leidenschaft sein?\n's ist Kraft in dem Blut, Kraft in dem Blut!\nDas Blut von Golgatha macht dich ganz rein,\n's ist Sieg für dich durchs teure Blut!", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Möchtest du weißer sein als frischer Schnee?\n's ist Kraft in dem Blut, Kraft in dem Blut!\nDas Blut nimmt Flecken fort und alles Weh,\nganz rein wirst du sein in dem Blut!", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "4) Möchtest du Jesus hier dienen so gern?\n's ist Kraft in dem Blut, Kraft in dem Blut!\nMöchtest du preisen den gnädigen Herrn?\nDa ist täglich Kraft in dem Blut!", 
+          "refrain": "ref1" 
+      }
+    ]
+  },
+
+  {
+    "buch": "Glücklich sein nur im Herrn",
+    "nummer": 180,
+    "name": "Nur einmal machst du diese Reise",
+    "refrains": {
+      "ref1": " ",
+      "ref2": " "
+    },
+    "strophen": [
+      { 
+          "text": "1) Nur einmal machst du diese Reise,\nlass eine gute Spur zurück!\nLeb' deinem Gott zum Lob und Preise,\nfür Ihn leb' freudig, zeugend jeder Augenblick.\nLeb' so, dass niemand dich einst verklage\ndort vor des großen, Heilandes Thron.\nLeb nur in Treue ganz unverzagend,\ntrage geduldig Spott und Hohn.", 
+          "refrain": "ref1" 
+      },
+      {
+          "text": "2) Leb' so, dass wirklich du im Leben\nein helles Licht für Jesus bist.\nDass jeder muss dir Zeugnis geben\ndu bist ein guter, frommer, wahrer, echter Christ.\nWenn sie auch gleich den Weg nicht gehen,\nden schmalen Weg, den der Herr gebahnt.\nWie oft ließest du den Heiland stehen,\ndenk nur wie oft dich Gott gemahnt.", 
+          "refrain": "ref1" 
+      },
+      { 
+          "text": "3) Leb' so, dass wenn dein lauf vollendet,\nvorüber deine Erdenzeit,\ndie Menschen, unter die gesendet\nder Herr dich hat, sind auch gerettet und befreit.\nLeb nur für Gott in jeder Weise,\ndenk daran jeden Augenblich,\ndass du nur einmal machst diese Reise,\nlass eine gute Spur zurück.", 
+          "refrain": "ref1" 
+      }
+    ]
   }
 
 ]
-
