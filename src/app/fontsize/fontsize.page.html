@@ -1,0 +1,21 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-button (click)="goBack()">
+        <ion-icon name="arrow-back-outline"></ion-icon>
+      </ion-button>
+    </ion-buttons>
+    <ion-title>Schriftgröße</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <div class="fontsize-container">
+    <p>Schriftgröße</p>
+    <div class="buttons">
+      <ion-button (click)="decreaseFontSize()">-</ion-button>
+      <span class="fontsize-value">{{ fontSize }}</span> 
+      <ion-button (click)="increaseFontSize()">+</ion-button>
+    </div>
+  </div>
+</ion-content>

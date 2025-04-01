@@ -1,0 +1,44 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title *ngIf="!isSearching">Liederbuch</ion-title>
+
+    <ion-item *ngIf="isSearching" lines="none" class="search-item">
+      <ion-input type="text" placeholder="Suche..." [(ngModel)]="searchTerm"></ion-input>
+      <ion-button slot="end" (click)="performSearch()">Suchen</ion-button>
+      <ion-button slot="end" (click)="cancelSearch()">X</ion-button>
+    </ion-item>
+
+    <ion-buttons slot="end" *ngIf="!isSearching">
+      <ion-button (click)="search()">
+        <ion-icon name="search"></ion-icon>
+      </ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-list *ngIf="!isSearching && booksLoaded && books.length > 0">
+    <ion-item *ngFor="let book of books">
+      <ion-label>
+        <a [routerLink]="['/book', book.filename]">
+          <h2>{{ book.title }}</h2>
+        </a>
+      </ion-label>
+    </ion-item>
+  </ion-list>
+
+  <ion-label *ngIf="!booksLoaded">Lade Bücher...</ion-label>
+
+  <ion-list *ngIf="isSearching && searchResults.length > 0; else noResults">
+    <ion-item *ngFor="let song of searchResults">
+      <ion-label>
+        <h2>{{ song.name }}</h2>
+        <p>{{ song.buch }} - {{ song.nummer }}</p>
+      </ion-label>
+    </ion-item>
+  </ion-list>
+
+  <ng-template #noResults>
+    <ion-label *ngIf="isSearching">Keine Ergebnisse gefunden.</ion-label>
+  </ng-template>
+</ion-content>

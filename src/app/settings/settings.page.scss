@@ -1,0 +1,24 @@
+ion-header {
+  ion-toolbar {
+    color: white;
+    --background: var(--ion-color-secondary); // Hier die Hintergrundfarbe setzen
+
+    ion-title {
+      text-align: center;
+    }
+
+    ion-button {
+      --color: var(--ion-color-light); // Optional: Textfarbe anpassen
+    }
+  }
+}
+
+.settings-container {
+    padding: 20px; // Füge etwas Abstand hinzu
+  }
+  
+  ion-button {
+    margin-bottom: 10px;
+    --background: var(--ion-color-tertiary); // Hier die Hintergrundfarbe setzen
+    color: var(--ion-color-tertiary-contrast); // Optional: Textfarbe anpassen
+  }

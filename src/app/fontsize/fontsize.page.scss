@@ -1,0 +1,39 @@
+ion-header {
+  ion-toolbar {
+    color: white;
+    --background: var(--ion-color-secondary); // Hier die Hintergrundfarbe setzen
+
+    ion-title {
+      text-align: center;
+    }
+
+    ion-button {
+      --color: var(--ion-color-light); // Optional: Textfarbe anpassen
+    }
+  }
+}
+
+ion-content {
+  .fontsize-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+  }
+
+  .buttons {
+    display: flex;
+    align-items: center; /* Zentriert die Schriftgröße vertikal */
+  }
+
+  ion-button {
+    margin: 0 8px; /* Fügt Abstand um die Buttons hinzu */
+    --color: var(--ion-color-primary); 
+    --background: var(--ion-color-tertiary);
+  }
+
+  .fontsize-value {
+    margin: 0 8px; /* Fügt Abstand um die Schriftgröße hinzu */
+    font-size: 1rem; /* Oder eine andere passende Größe */
+  }
+}

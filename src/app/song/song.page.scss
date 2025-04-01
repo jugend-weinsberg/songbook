@@ -1,27 +1,39 @@
-#container {
-  text-align: center;
+ion-header {
+  ion-toolbar {
+    color: white;
+    --background: var(--ion-color-secondary); // Hier die Hintergrundfarbe setzen
 
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 50%;
-  transform: translateY(-50%);
+    ion-title {
+      text-align: center;
+    }
+
+    ion-button {
+      --color: var(--ion-color-light); // Optional: Textfarbe anpassen
+    }
+  }
 }
 
-#container strong {
-  font-size: 20px;
-  line-height: 26px;
-}
+ion-content {
+  font-size: var(--app-font-size);
+  --background: inherit; // Inherit background from parent if needed
+  --padding-start: 16px;
+  --padding-end: 16px;
 
-#container p {
-  font-size: 16px;
-  line-height: 22px;
+  ion-label {
+    h2 {
+      font-size: 1.8em;
+      font-weight: bold;
+      margin-bottom: 0.5em;
+      text-align: center;
+    }
 
-  color: #8c8c8c;
-
-  margin: 0;
-}
-
-#container a {
-  text-decoration: none;
+    #song-text {
+      p {
+        font-size: 1em;
+        line-height: 1.5;
+        margin-bottom: 0.8em;
+        white-space: pre-wrap; // Preserve whitespace and line breaks
+      }
+    }
+  }
 }

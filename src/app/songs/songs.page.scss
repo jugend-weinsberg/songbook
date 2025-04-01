@@ -1,27 +1,67 @@
-#container {
-  text-align: center;
+ion-header {
+  ion-toolbar {
+    color: white;
+    --background: var(--ion-color-secondary); // Hier die Hintergrundfarbe setzen
 
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 50%;
-  transform: translateY(-50%);
+    ion-title {
+      text-align: center;
+    }
+
+    ion-button {
+      --color: var(--ion-color-light); // Optional: Textfarbe anpassen
+    }
+  }
 }
 
-#container strong {
-  font-size: 20px;
-  line-height: 26px;
-}
+ion-content {
 
-#container p {
-  font-size: 16px;
-  line-height: 22px;
+  --padding-start: 16px;
+  --padding-end: 16px;
 
-  color: #8c8c8c;
+  
+    ion-list {
+      background: inherit; // Make the list background inherit from ion-content
+      --ion-item-background: inherit; // Make the item background inherit as well.
+    }
+  
+    ion-item {
+        --background: inherit; // or a specific color if needed
+    }
 
-  margin: 0;
-}
 
-#container a {
-  text-decoration: none;
+  ion-list {
+    ion-item {
+      ion-label {
+        a {
+          text-decoration: none; // Remove underline from link
+          color: inherit; // Inherit color from ion-label
+          display: block; // Make the whole ion-label clickable
+
+          h2 {
+            font-size: 1.2em; // Adjust as needed
+            font-weight: 500;
+            margin-bottom: 0.2em;
+          }
+        }
+
+        h2 { // Style for book title (when not a link)
+          font-size: 1.2em;
+          font-weight: 500;
+          margin-bottom: 0.2em;
+        }
+
+        p {
+          font-size: 1em;
+          color: #777; // Example: Lighter color for author
+          margin-top: 0;
+        }
+      }
+    }
+  }
+
+  .ion-label-loading { // Style for "Loading..."
+    text-align: center;
+    font-style: italic;
+    color: gray;
+  }
 }

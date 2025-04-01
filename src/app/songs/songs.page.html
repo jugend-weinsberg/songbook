@@ -1,15 +1,35 @@
-<ion-header [translucent]="true">
+<ion-header>
   <ion-toolbar>
-    <button (click)="goBack()">Zurück</button>
-    <ion-title>Liederbuch</ion-title>
+    <ion-buttons slot="start">
+      <ion-button (click)="goBack()">
+        <ion-icon name="arrow-back-outline"></ion-icon>
+      </ion-button>
+    </ion-buttons>
+    <ion-title *ngIf="!isSearching">{{ bookTitle }}</ion-title>
+
+    <ion-item *ngIf="isSearching" lines="none" class="search-item">
+      <ion-input type="text" placeholder="Suche..." [(ngModel)]="searchTerm"></ion-input>
+      <ion-button slot="end" (click)="performSearch()">Suchen</ion-button>
+      <ion-button slot="end" (click)="cancelSearch()">X</ion-button>
+    </ion-item>
+
+    <ion-buttons slot="end" *ngIf="!isSearching">
+      <ion-button (click)="search()">
+        <ion-icon name="search"></ion-icon>
+      </ion-button>
+      <ion-button (click)="toggleSort()">
+        <ion-icon name="list"></ion-icon>
+      </ion-button>
+    </ion-buttons>
   </ion-toolbar>
 </ion-header>
 
-<ion-content [fullscreen]="true">
+<ion-content>
   <ion-list *ngIf="songs.length > 0; else noSongs">
     <ion-item *ngFor="let song of songs">
       <ion-label>
-        <a [routerLink]="['/book', bookFilename, 'song', song.nummer]">  <h2>{{ song.name }}</h2>
+        <a [routerLink]="['/book', bookFilename, 'song', song.nummer]">
+          <h2>{{ song.name }}</h2>
           <p>{{ song.nummer }}</p>
         </a>
       </ion-label>

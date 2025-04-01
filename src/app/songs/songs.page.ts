@@ -1,9 +1,10 @@
 import { Component, OnInit } from '@angular/core';
-import { IonHeader, IonToolbar, IonTitle, IonContent, IonList, IonItem, IonLabel } from '@ionic/angular/standalone';
+import { IonicModule } from '@ionic/angular'; // ONLY import IonicModule
 import { HttpClient, HttpClientModule } from '@angular/common/http';
 import { CommonModule } from '@angular/common';
 import { RouterModule, ActivatedRoute, Router } from '@angular/router';
 import { Location } from '@angular/common';
+import { FormsModule } from '@angular/forms'; // Import FormsModule
 
 interface Song {
   buch: string;
@@ -17,19 +18,27 @@ interface Song {
   selector: 'app-songs',
   templateUrl: 'songs.page.html',
   styleUrls: ['songs.page.scss'],
-  imports: [
-    IonHeader, IonToolbar, IonTitle, IonContent,
-    CommonModule, IonList, IonItem, IonLabel, RouterModule,
-    HttpClientModule
-  ],
   standalone: true,
-  providers: [HttpClient]
+  imports: [
+    IonicModule, // ONLY IonicModule - remove individual component imports
+    CommonModule,
+    RouterModule,
+    HttpClientModule,
+    FormsModule,
+  ],
+  providers: [HttpClient, HttpClientModule ]
 })
 export class SongsPage implements OnInit {
+
+  bookTitle: string = ''; // New property for the book title
   book: any; // Hier muss der korrekte Typ für 'book' stehen (z.B. ein Interface)
   bookFilename: string | null = null;
   songs: Song[] = [];
   buecher: string[] = [];
+  sortAscending: boolean = true; // Standardmäßig nach Nummer sortieren
+  isSearching: boolean = false; // Suchmodus
+  searchTerm: string = ''; // Suchbegriff
+  originalSongs: Song[] = []; // Speichert die ursprünglichen Lieder
 
   constructor(private route: ActivatedRoute, private http: HttpClient, private router: Router, private location: Location) { }
 
@@ -48,8 +57,12 @@ export class SongsPage implements OnInit {
     this.http.get<Song[]>(url).subscribe({
       next: (data) => {
         this.songs = data;
+        this.originalSongs = [...data]; // Speichere die ursprünglichen Lieder
         this.buecher = this.getUniqueBuecher(data);
-        console.log("Songs:", this.songs); // Überprüfe die geladenen Songs
+        if (this.songs.length > 0) {
+          this.bookTitle = this.songs[0].buch;
+        }
+        this.sortSongs();
       },
       error: (error) => {
         console.error('Fehler beim Laden der Songs:', error);
@@ -57,6 +70,7 @@ export class SongsPage implements OnInit {
       }
     });
   }
+
 
   getUniqueBuecher(songs: Song[]): string[] {
     const uniqueBuecher = new Set<string>();
@@ -68,5 +82,42 @@ export class SongsPage implements OnInit {
   
   goBack() {
     this.location.back();
+  }
+
+  cancelSearch() {
+    this.isSearching = false;
+    this.searchTerm = '';
+    this.songs = [...this.originalSongs]; // Zeige alle Lieder an
+  }
+
+  search() {
+    this.isSearching = true;
+    this.searchTerm = ''; // Suchbegriff zurücksetzen
+    this.songs = [...this.originalSongs]; // Zeige alle Lieder an
+  }
+
+  performSearch() {
+    if (this.searchTerm) {
+      this.songs = this.originalSongs.filter(song =>
+        song.name.toLowerCase().includes(this.searchTerm.toLowerCase())
+      );
+    } else {
+      this.songs = [...this.originalSongs]; // Zeige alle Lieder an, wenn der Suchbegriff leer ist
+    }
+  }
+
+  toggleSort() {
+    this.sortAscending = !this.sortAscending;
+    this.sortSongs();
+  }
+
+  sortSongs() {
+    this.songs.sort((a, b) => {
+      if (this.sortAscending) {
+        return a.nummer - b.nummer; // Nach Nummer sortieren (aufsteigend)
+      } else {
+        return a.name.localeCompare(b.name); // Nach Name sortieren (alphabetisch)
+      }
+    });
   }
 }

@@ -1,0 +1,9 @@
+ion-header {
+    ion-toolbar {
+      --background: var(--ion-color-secondary); // Hier die Hintergrundfarbe setzen
+    }
+
+    ion-title {
+      text-align: center;
+    }
+}

@@ -1,24 +1,48 @@
 [
   {
-      "buch": "Liederbuch 2",
-      "nummer": 1,
-      "name": "Lied 1",
-      "strophentext": 
-      {
-        "1": "Erste Strophe...",
-        "2": "Zweite Strophe..."
+    "tonart": "F",
+    "buch": "Gemeinde Gesangbuch",
+    "nummer": 1,
+    "name": "Anbetung bringen wir dir, Jesus, Gotteslamm",
+    "refrains": {
+      "ref1": "",
+      "ref2": ""
+    },
+    "strophen": [
+      { 
+          "text": "1) Anbetung bringen wir Dir, Jesus, Gotteslamm.\nWir stehen staunend hier, sehen, was Du getan.\nNichts ist für Dich zu schwer, nichts Dich bezwingen kann!\nDu bist der einz’ge Herr, Jesus, wir beten an."
       },
-      "refraintext": "Refrain..."
-    },
+      { 
+          "text": "2) Christus, auf Golgatha hast Du den Feind besiegt.\nDeine erlöste Schar anbetend vor Dir liegt.\nAus dunkler Leidensnacht stiegst Du zum Licht empor,\ndann brach mit aller Macht, Jesus, Dein Sieg hervor!" 
+      },
+      { 
+          "text": "3) Herr, Deine Botschaft heut neu unser Herz beglückt: \n\"Jesus, der Herr der Herrn, bald Seine Braut entrückt!“\nFroh warten wir auf Dich und machen uns bereit,\nbald werden wir Dich sehn, Jesus, in Herrlichkeit"
+      }
+      
+    ]
+  },
+
   {
-    "buch": "Liederbuch 2",
-    "nummer": 2,
-    "name": "Lied 2",
-    "strophentext": 
-    {
-      "1": "Erste Strophe...",
-      "2": "Zweite Strophe..."
-    },
-    "refraintext": "Refrain..."
+      "buch": "Gemeinde Gesangbuch",
+      "nummer": 2,
+      "name": "Glücklichsein heißt",
+      "refrains": {
+        "ref1": "Refrain 1 Text...",
+        "ref2": "Refrain 2 Text..."
+      },
+      "strophen": [
+        { 
+            "text": "Erste Strophe...", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "Zweite Strophe...", 
+            "refrain": "ref1" 
+        },
+        { 
+            "text": "Dritte Strophe...", 
+            "refrain": "ref2" 
+        }
+      ]
   }
 ]

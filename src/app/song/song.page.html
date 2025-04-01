@@ -1,23 +1,44 @@
-<ion-header [translucent]="true">
+<ion-header>
   <ion-toolbar>
-    <div style="display: flex; align-items: center;">  <button (click)="goBack()">Zurück</button></div>
-      <ion-title>Liederbuch</ion-title>
+    <ion-buttons slot="start">
+      <ion-button (click)="goBack()">
+        <ion-icon name="arrow-back-outline"></ion-icon>
+      </ion-button>
+    </ion-buttons>
+    <ion-title>{{ songNumber }}</ion-title>
+    <ion-buttons slot="end">
+      <ion-button (click)="playNote()">
+        <ion-icon name="musical-note"></ion-icon>
+      </ion-button>
+      <ion-button (click)="changeView()">
+        <ion-icon name="list"></ion-icon>
+      </ion-button>
+      <ion-button (click)="toggleFavorite()">
+        <ion-icon name="star"></ion-icon>
+      </ion-button>
+    </ion-buttons>
   </ion-toolbar>
 </ion-header>
 
 <ion-content *ngIf="song">
-  <ion-label>  
-    <h2>{{ song.name }}</h2>
+  <h2>{{ song.name }}</h2>
     <br>
+  <ion-label *ngIf="!showImage">  
+    
 
-    <div *ngIf="song?.strophen && song?.refrains">
+    <div id="song-text" *ngIf="song?.strophen && song?.refrains">
       <div *ngFor="let item of song.strophen">
         <p style="white-space: pre-wrap;">{{ item.text }}</p>
         <br>
-        <p style="white-space: pre-wrap;" *ngIf="item.refrain ">{{ song.refrains[item.refrain] }}<br></p>
-        
+        <ng-container *ngIf="item.refrain">
+          <p style="white-space: pre-wrap;">{{ song.refrains[item.refrain] }}</p>
+          <br>
+        </ng-container>
       </div>
     </div>
-
   </ion-label>
+
+  <div *ngIf="showImage">  <img *ngIf="imageUrl" [src]="imageUrl" alt="Song Image" />
+    <p *ngIf="!imageUrl">Bild konnte nicht geladen werden.</p>
+  </div>
 </ion-content>

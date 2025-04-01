@@ -1,0 +1,62 @@
+ion-header {
+  ion-toolbar {
+    color: white;
+    --background: var(--ion-color-secondary); // Hier die Hintergrundfarbe setzen
+
+    ion-title {
+      text-align: center;
+    }
+
+    ion-button {
+      --color: var(--ion-color-light); // Optional: Textfarbe anpassen
+    }
+  }
+}
+
+ion-content {
+
+  ion-list {
+    background: inherit;
+    --ion-item-background: inherit;
+  }
+
+  ion-item {
+    --background: inherit;
+  }
+
+  ion-list { // Keep this block, but refine the selectors
+    ion-item {
+      ion-label {
+        a {
+          text-decoration: none;
+          color: inherit;
+          display: block;
+
+          h2 {
+            font-size: 1.2em;
+            font-weight: 500;
+            margin-bottom: 0.2em;
+          }
+        }
+
+        h2 { // Style for non-link titles
+          font-size: 1.2em;
+          font-weight: 500;
+          margin-bottom: 0.2em;
+        }
+
+        p {
+          font-size: 1em;
+          color: #777;
+          margin-top: 0;
+        }
+      }
+    }
+  }
+
+  .ion-label-loading {
+    text-align: center;
+    font-style: italic;
+    color: gray;
+  }
+}
